@@ -144,838 +144,839 @@
 144,Chao
 145,Chappe
 146,Charloss
-147,Chess
-148,Chesskippa
-149,Chessmarimo
-150,Chew
-151,Chiken
-152,Chimney
-153,Chinjao
-154,Chocolat
-155,Choi
-156,Chouchou
-157,Chuchun
-158,Cipher Pol 0
-159,Cipher Pol 5
-160,Cipher Pol 6
-161,Cipher Pol 9
-162,Citizens
-163,Coby
-164,Cocoa
-165,Cocox
-166,Cocoyashi Villagers
-167,Coffee Monkeys
-168,Colscon
-169,Comil
-170,Conis
-171,Corazon
-172,Corgi
-173,Coribou
-174,Corrida Coliseum Attendants
-175,Corrida Coliseum Participants
-176,Corrida Coliseum Spectators
-177,Cosmo
-178,Cosmos
-179,Cotton
-180,Cowboy
-181,Crocodile
-182,Crocus
-183,Curiel
-184,Curly Dadan
-185,Daddy Dee
-186,Dagama
-187,Daidalos
-188,Daigin
-189,Daikon
-190,Daisy
-191,Dalmatian
-192,Dalton
-193,Damask
-194,Daruma
-195,Daz Bones
-196,Decalvan Brothers
-197,Delacuaji
-198,Dellinger
-199,Demaro Black
-200,Den
-201,Den Den Mushi
-202,Devil Dias
-203,Diamante
-204,Diez Barrels
-205,Dirt Boss
-206,Disco
-207,Doberman
-208,Doc Q
-209,Doctor Hogback
-210,Dogra
-211,Doma
-212,Domino
-213,Domo-kun
-214,Don Krieg
-215,Don Krieg Pirates
-216,Donovan
-217,Donquixote Doflamingo
-218,Donquixote Doflamingo String Clone
-219,Donquixote Homing
-220,Donquixote Pirates
-221,Doran
-222,Dorry
-223,Dosun
-224,Dr. Clover
-225,Dr. Hiluluk
-226,Dr. Kureha
-227,Dracule Mihawk
-228,Drake Pirates
-229,Dressrosa Bounty Hunters
-230,Dressrosa Citizens
-231,Dressrosa Toys
-232,Drip
-233,Drum Island Citizens
-234,Duke Inuarashi
-235,Duval
-236,Eddy
-237,Edward Weeble
-238,Egana
-239,Elder Nyon
-240,Elizabello II
-241,Elmy
-242,Emporio Ivankov
-243,Enel
-244,Enishida
-245,Epoida
-246,Erik
-247,Erimaki Runners
-248,Eustass Kid
-249,Eyelashes
-250,Farafra
-251,Farul
-252,Fen Bock
-253,Fighting Fish
-254,Fillonce
-255,Fishbonen
-256,Fisher Tiger
-257,Fishman Island Citizens
-258,Flapper
-259,Flying Fish Riders
-260,Flying Pirates
-261,Forest Boss
-262,Forliewbs
-263,Fossa
-264,Foxy
-265,Foxy Pirates
-266,Foxy Referee
-267,Franky
-268,Franky Family
-269,Fujitora
-270,Fukaboshi
-271,Fukuro
-272,Fullbody
-273,Funkfreed
-274,Fusha Village Villagers
-275,Fuza
-276,F-Wani
-277,Gaburu
-278,Gaimon
-279,Galdino
-280,Gallant Hippo Zombie
-281,Galleon
-282,Galley-La Company
-283,Gambeer
-284,Gambia
-285,Gan Fall
-286,Gancho
-287,Gatherine
-288,Gatz
-289,Gedatsu
-290,Gekko Moriah
-291,Genbo
-292,General Zombies
-293,General Galaxy
-294,Genzo
-295,George Black
-296,George Mach
-297,Giant Eel
-298,Giant Jack
-299,Gin
-300,Gina
-301,Ginrummy
-302,Gladius
-303,Glove
-304,Gode
-305,God's Enforcers
-306,Going Merry
-307,Gol D. Roger
-308,Goldfish Princess
-309,Gomorrah
-310,Gonbe
-311,Goo
-312,Gorilla
-313,Goro
-314,Gorosei
-315,Grabar
-316,Gram
-317,Great Michael
-318,Guilty Jurors
-319,Gyaro
-320,Gyoro
-321,Gyoru
-322,Gyro
-323,Gyro Pirates
-324,Hack
-325,Hack Fishman
-326,Hajrudin
-327,Hakowan
-328,Hamburg
-329,Hammond
-330,Hangan
-331,Hanger
-332,Hannyabal
-333,Happa
-334,Happo Navy
-335,Happygun
-336,Haredas
-337,Harisenbon
-338,Haritsu Kendiyo
-339,Haruta
-340,Hatchan
-341,Hattori
-342,Heart Pirates
-343,Heat
-344,Helmeppo
-345,Heppoko
-346,Heracles
-347,Herb
-348,Hewitt
-349,Hideo Usaguchi
-350,Higuma
-351,Hikoichi
-352,Hildon
-353,Hina
-354,Hiramera
-355,Ho
-356,Hocha
-357,Hocker
-358,Hody Jones
-359,Hoe
-360,Hoichael
-361,Holy
-362,Hotori
-363,Human Auctioning House Workers
-364,Humandrills
-365,Humphrey
-366,Hundred Beasts Pirates
-367,Hustle
-368,Hyota
-369,Hyouzou
-370,Iceburg
-371,Ichika
-372,Ichiro Kumaguchi
-373,Ideaman
-374,Ideo
-375,Igaram
-376,Ikaros Much
-377,Impel Down Guards
-378,Impel Down Prisoners
-379,Inazuma
-380,Indigo
-381,Inhel
-382,Inuppe
-383,Ippon-Matsu
-384,Isa
-385,Ishigo Shitemanna
-386,Ishilly
-387,Island Devourer
-388,Islewan
-389,Itomimizu
-390,Ivan X
-391,Izo
-392,Jabra
-393,Jack
-394,Jaguar D. Saul
-395,Jalmack
-396,Jango
-397,Jaya
-398,Jean Ango
-399,Jean Bart
-400,Jeet
-401,Jerry
-402,Jesus Burgess
-403,Jew Wall
-404,Jewelry Bonney
-405,Jigoro
-406,Jinbe
-407,Jobo
-408,John
-409,John Giant
-410,Johnny
-411,Jora
-412,Jorge
-413,Joy Boy
-414,Jozu
-415,Judy
-416,Julius
-417,Junan
-418,Kabu
-419,Kadar
-420,Kagikko
-421,Kaido
-422,Kairen
-423,Kairiken
-424,Kairiki Destroyers
-425,Kaku
-426,Kakukaku
-427,Kalifa
-428,Kamakiri
-429,Kaneshiro
-430,Kanezenny
-431,Kanjuro
-432,Kappa
-433,Karma
-434,Kasa
-435,Kasagoba
-436,Kashi
-437,Kashigami
-438,Kaya
-439,Kebi
-440,Kechatch
-441,Keimi
-442,Kelly Funk
-443,Kentauros
-444,Kerville
-445,Kibagaeru
-446,Kibin
-447,Kiev
-448,Kiku
-449,Kikyo
-450,Killer
-451,Kin'emon
-452,King of Lvneel
-453,Kinga
-454,Kingdew
-455,Kitetsu
-456,Kitton
-457,Kitton's Grandfather
-458,Kiwi
-459,Kizaru
-460,Koala
-461,Koda
-462,Kohza
-463,Kokoro
-464,Konbu
-465,Kong
-466,Kop
-467,Koshiro
-468,Kotori
-469,Koze
-470,Kuina
-471,Kuja Pirates
-472,Kuja Warriors
-473,Kumadori
-474,Kumadori Yamanbako
-475,Kumashi
-476,Kung-Fu Dugongs
-477,Kuro
-478,Kuromarimo
-479,Kuroobi
-480,Kurotsuru
-481,Kyros
-482,Kyuin
-483,Kyuji
-484,Kyukyu
-485,Laboon
-486,Lacroix
-487,Lacuba
-488,Laffitte
-489,Laki
-490,Lami
-491,Lao G
-492,Lapahn
-493,Laskey
-494,Lassoo
-495,Law Watching Unit
-496,Leo
-497,Lily
-498,Lines
-499,Lip Doughty
-500,Little Garden Dinosaur
-501,Little Oars Jr.
-502,Loguetown Citizens
-503,Loguetown Police
-504,Lola
-505,Lola Zombie
-506,Lord of the Coast
-507,Louis Arnote
-508,Lucky Roo
-509,Lulis
-510,Machvise
-511,Macro
-512,Macro Automaton
-513,Magellan
-514,Magura
-515,Maidy
-516,Makino
-517,Makko
-518,Manboshi
-519,Mani
-520,Manjaro
-521,Mansherry
-522,Manticores
-523,Marco
-524,Margarita
-525,Marguerite
-526,Maria Napole
-527,Marie
-528,Marilyn
-529,Marin
-530,Marines
-531,Mario
-532,Marmieta
-533,Mashikaku
-534,Masira
-535,Master Nekomamushi
-536,Master of the Waters
-537,Maujii
-538,Maynard
-539,Mayor Woop Slap
-540,Mayushika
-541,McGuy
-542,McKinley
-543,Meadows
-544,Megalo
-545,Mermaid Cafe Mermaids
-546,Mermaid Cove Mermaids
-547,Mero
-548,Merry
-549,Michael
-550,Mikazuki
-551,Mikio Itoo
-552,Minatomo
-553,Minister of the Left
-554,Minister of the Right
-555,Mink Tribe
-556,Minochihuahua
-557,Minokoala
-558,Minorhinoceros
-559,Minoruba
-560,Minotaurus
-561,Minozebra
-562,Miss Bakkin
-563,Miss Catharine
-564,Miss Doublefinger
-565,Miss Father's day
-566,Miss Friday
-567,Miss Goldenweek
-568,Miss Merry Christmas
-569,Miss Monday
-570,Miss Mother's Day
-571,Miss Saturday
-572,Miss Thursday
-573,Miss Tuesday
-574,Miss Universe
-575,Miss Valentine
-576,Miyagi
-577,Mizuira
-578,Mizuta Madaisuki
-579,Mizuta Mawaritosuki
-580,Mjosgard
-581,Moc Donald
-582,Mocha
-583,Mochi
-584,Mocktown Pirates
-585,Moda
-586,Mohji
-587,Mohmoo
-588,Momonga
-589,Momonosuke
-590,Monda
-591,Monet
-592,Monji
-593,Monkey D. Dragon
-594,Monkey D. Garp
-595,Monkey D. Luffy
-596,Monkey D. Luffy's Mr. Snow Man
-597,Monstar
-598,Montblanc Cricket
-599,Montblanc Noland
-600,Moodie
-601,Mornin
-602,Motobaro
-603,Motzel
-604,Mounblutain
-605,Mountain Bandits
-606,Mountain Ricky
-607,Mousse
-608,Moyle
-609,Mozambia
-610,Mozu
-611,Mr. 10
-612,Mr. 11
-613,Mr. 12
-614,Mr. 13
-615,Mr. 4
-616,Mr. 5
-617,Mr. 6
-618,Mr. 7
-619,Mr. 9
-620,Mr. Beans
-621,Mr. Love
-622,Mr. Mellow
-623,Mr. Shimizu
-624,Mukkashimi Tower
-625,Mummy
-626,Mummy Mee
-627,Muret
-628,Nako
-629,Nami
-630,Namur
-631,Natto
-632,Nefertari Cobra
-633,Nefertari Titi
-634,Nefertari Vivi
-635,Negikuma Maria
-636,Neptune
-637,Nerine
-638,Nero
-639,New Fishman Pirates
-640,New Fishman Pirates Sea Monsters
-641,Newkamas
-642,Nezumi
-643,Nico Olvia
-644,Nico Robin
-645,Nigeratta
-646,Nika
-647,Nin
-648,Ninjin
-649,Ninth
-650,Nnke-kun
-651,Noah
-652,Nojiko
-653,Nola
-654,Nora Gitsune
-655,Nosgarl
-656,Nubon
-657,Nugire Yainu
-658,Oars
-659,Octopako
-660,Octopus Mash
-661,Ohm
-662,Oimo
-663,Okame
-664,Okome
-665,Onigumo
-666,Oran
-667,Orlumbus
-668,Otohime
-669,Outlook III
-670,Pacifista
-671,Packy
-672,Pagaya
-673,Palms
-674,Pandaman
-675,Pandawoman
-676,Pansy
-677,Pantri
-678,Papaneel
-679,Pappug
-680,Pascia
-681,Patty
-682,Paulie
-683,Pavlik
-684,Pearl
-685,Pedro
-686,Peeply Lulu
-687,Pekkori
-688,Pekoms
-689,Pell
-690,Pellini
-691,Penguin
-692,Peppoko
-693,Perona
-694,Peterman
-695,Pica
-696,Pickles
-697,Pierre
-698,Piiman
-699,Pisaro
-700,Poppoko
-701,Poppy
-702,Porche
-703,Porchemy
-704,Poro
-705,Portgas D. Ace
-706,Portgas D. Rouge
-707,Potsun
-708,Princess
-709,Pudding Pudding
-710,Punk Hazard Centaurs
-711,Punk Hazard Dragon
-712,Punk Hazard Guinea Pig Children
-713,Punk Hazard Satyrs
-714,Punk Hazard Shark
-715,Punk Hazard Small Dragon
-716,Puppu
-717,Puzzle Scorpions
-718,PX-1
-719,PX-4
-720,PX-5
-721,PX-7
-722,Raizou
-723,Rakuyo
-724,Ramba
-725,Rampo
-726,Ran
-727,Rebecca
-728,Red Hair Pirates
-729,Reforte
-730,Reuder
-731,Richie
-732,Rika
-733,Riku Army Soldiers
-734,Riku Dold III
-735,Rindo
-736,Rint
-737,Ripper
-738,Ririka
-739,Risky Brothers
-740,Risky Brothers Zombies
-741,Rivers
-742,Rob Lucci
-743,Robson
-744,Roche
-745,Roche Tomson
-746,Rock
-747,Rockstar
-748,Roddy
-749,Rody
-750,Roger Pirates
-751,Roji
-752,Rokkaku
-753,Rolling Logan
-754,Rolling Pirates
-755,Ronse
-756,Roronoa Zoro
-757,Roshio
-758,Ross
-759,Roswald
-760,Rumbar Pirates
-761,Run
-762,Rush
-763,Ryuboshi
-764,Ryuma
-765,Sabaody Archipelago Bounty Hunters
-766,Sabaody Archipelago Citizens
-767,Sabaody Archipelago Pirates
-768,Sabaody Archipelago Slave Traders
-769,Sabaody Archipelago Women
-770,Sabo
-771,Sadi-chan
-772,Sai
-773,Saldeath
-774,Sally Nantuckanet
-775,Salome
-776,Sam
-777,Samurai Batts
-778,Sancrin
-779,Sandora Lizard
-780,Sanji
-781,Sanjuan Wolf
-782,Sanka
-783,Sapi
-784,Sarfunkel
-785,Sarkies
-786,Saru
-787,Satori
-788,Scarlett
-789,Schollzo
-790,Scissors
-791,Scopper Gaban
-792,Scotch
-793,Scratchmen Apoo
-794,Sea Bunny
-795,Sea Cat
-796,Sea King
-797,Seagull
-798,Seamars
-799,Seira
-800,Sengoku
-801,Senor Pink
-802,Sentomaru
-803,Seto
-804,Shachi
-805,Shakky
-806,Shalulia
-807,Sham
-808,Shanba
-809,Shandia Chief
-810,Shandians
-811,Shanks
-812,Sharinguru
-813,Sheepshead
-814,Shells Town Citizens
-815,Shelly
-816,Shiki
-817,Shiliew
-818,Shine
-819,Shion
-820,Shioyaki
-821,Shirahoshi
-822,Shoujou
-823,Shu
-824,Shura
-825,Shyarly
-826,Sicilian
-827,Sicily
-828,Silvers Rayleigh
-829,Sind
-830,Sky Lamprey
-831,Sky Shark
-832,Sky Snake
-833,Skypieans
-834,Sleepy
-835,Smiley
-836,Smoker
-837,Smoothie
-838,Sodom
-839,Soldier Zombies
-840,Sonieh
-841,Sora
-842,Soro
-843,South Bird
-844,Spacey
-845,Spandam
-846,Spandine
-847,Spartan
-848,Spector
-849,Speed Jiru
-850,Sphinx
-851,Splash
-852,Splatter
-853,Spoil
-854,Squard
-855,Stainless
-856,Stalker
-857,Stansen
-858,Stefan
-859,Stelly
-860,Stevie
-861,Stomp
-862,Stool
-863,Straw Hat Pirates
-864,Strawberry
-865,Stronger
-866,Su
-867,Sugar
-868,Suleiman
-869,Sun Pirates
-870,Super Spot-Billed Duck Squad
-871,Surprise Zombies
-872,Surume
-873,Sweet Pea
-874,Take
-875,Tamachibi
-876,Tamago
-877,Tamagon
-878,Tamanegi
-879,Tank Lepanto
-880,Tansui
-881,Tararan
-882,Taroimo
-883,Tashigi
-884,T-Bone
-885,Terracotta
-886,Terry
-887,Terry Gilteo
-888,Teru
-889,Thalassa Lucas
-890,Thatch
-891,The Going Luffy
-892,The Yonta Maria
-893,Thousand Sunny
-894,Tibany
-895,Tilestone
-896,Tom
-897,Tomato Gang
-898,Tonjit
-899,Tontatta Dwarves
-900,Tony Tony Chopper
-901,Toto
-902,Trafalgar D. Water Law
-903,Trebol
-904,Tristan
-905,Tsukimi
-906,Tsuru
-907,Turco
-908,Tyrannosaurus
-909,Ucy
-910,Ukkari
-911,Ultraking
-912,Unforgivable Mask
-913,Unigaro
-914,Unknown Jack Affiliate
-915,Unknown Reindeer Mink
-916,Unluckies
-917,Urouge
-918,Usopp
-919,Usopp Pirates
-920,Usopp's Snow Queen
-921,Uzu
-922,Van Augur
-923,Vander Decken
-924,Vander Decken IX
-925,Vasco Shot
-926,Vegapunk
-927,Vergo
-928,Very Good
-929,Victoria Cindry
-930,Viola
-931,Vista
-932,Vitan
-933,Vito
-934,Wadatsumi
-935,Wallem
-936,Wanda
-937,Wanze
-938,Wapol
-939,Wapol Pirates
-940,Warashi
-941,Water 7 Citizens
-942,Weatheria Scientists
-943,Wellington
-944,Whiskey Peak Citizens
-945,White Berets
-946,White Sea Creatures
-947,Whitebeard
-948,Whitebeard Pirates
-949,Whitey Bay
-950,Wicca
-951,Wild Zombies
-952,Willie Gallon
-953,Wiper
-954,Wire
-955,Wolf Unit
-956,X Drake
-957,Yama
-958,Yamakaji
-959,Yamenahare
-960,Yarisugi
-961,Yasopp
-962,Yokozuna
-963,Yonka
-964,Yonka Two
-965,Yonta Maria Grand Fleet
-966,Yorki
-967,Yosaku
-968,Yoshimoto
-969,Yotsubane
-970,Yu
-971,Yuki
-972,Yukichi Skull
-973,Yurikah
-974,Zadie
-975,Zambai
-976,Zeff
-977,Zeo
-978,Zodia
-979,Zombie #217
-980,Zombie Penguin Trio
-981,Zucca
+147,Charlotte Pudding
+148,Chess
+149,Chesskippa
+150,Chessmarimo
+151,Chew
+152,Chiken
+153,Chimney
+154,Chinjao
+155,Chocolat
+156,Choi
+157,Chouchou
+158,Chuchun
+159,Cipher Pol 0
+160,Cipher Pol 5
+161,Cipher Pol 6
+162,Cipher Pol 9
+163,Citizens
+164,Coby
+165,Cocoa
+166,Cocox
+167,Cocoyashi Villagers
+168,Coffee Monkeys
+169,Colscon
+170,Comil
+171,Conis
+172,Corazon
+173,Corgi
+174,Coribou
+175,Corrida Coliseum Attendants
+176,Corrida Coliseum Participants
+177,Corrida Coliseum Spectators
+178,Cosmo
+179,Cosmos
+180,Cotton
+181,Cowboy
+182,Crocodile
+183,Crocus
+184,Curiel
+185,Curly Dadan
+186,Daddy Dee
+187,Dagama
+188,Daidalos
+189,Daigin
+190,Daikon
+191,Daisy
+192,Dalmatian
+193,Dalton
+194,Damask
+195,Daruma
+196,Daz Bones
+197,Decalvan Brothers
+198,Delacuaji
+199,Dellinger
+200,Demaro Black
+201,Den
+202,Den Den Mushi
+203,Devil Dias
+204,Diamante
+205,Diez Barrels
+206,Dirt Boss
+207,Disco
+208,Doberman
+209,Doc Q
+210,Doctor Hogback
+211,Dogra
+212,Doma
+213,Domino
+214,Domo-kun
+215,Don Krieg
+216,Don Krieg Pirates
+217,Donovan
+218,Donquixote Doflamingo
+219,Donquixote Doflamingo String Clone
+220,Donquixote Homing
+221,Donquixote Pirates
+222,Doran
+223,Dorry
+224,Dosun
+225,Dr. Clover
+226,Dr. Hiluluk
+227,Dr. Kureha
+228,Dracule Mihawk
+229,Drake Pirates
+230,Dressrosa Bounty Hunters
+231,Dressrosa Citizens
+232,Dressrosa Toys
+233,Drip
+234,Drum Island Citizens
+235,Duke Inuarashi
+236,Duval
+237,Eddy
+238,Edward Weeble
+239,Egana
+240,Elder Nyon
+241,Elizabello II
+242,Elmy
+243,Emporio Ivankov
+244,Enel
+245,Enishida
+246,Epoida
+247,Erik
+248,Erimaki Runners
+249,Eustass Kid
+250,Eyelashes
+251,Farafra
+252,Farul
+253,Fen Bock
+254,Fighting Fish
+255,Fillonce
+256,Fishbonen
+257,Fisher Tiger
+258,Fishman Island Citizens
+259,Flapper
+260,Flying Fish Riders
+261,Flying Pirates
+262,Forest Boss
+263,Forliewbs
+264,Fossa
+265,Foxy
+266,Foxy Pirates
+267,Foxy Referee
+268,Franky
+269,Franky Family
+270,Fujitora
+271,Fukaboshi
+272,Fukuro
+273,Fullbody
+274,Funkfreed
+275,Fusha Village Villagers
+276,Fuza
+277,F-Wani
+278,Gaburu
+279,Gaimon
+280,Galdino
+281,Gallant Hippo Zombie
+282,Galleon
+283,Galley-La Company
+284,Gambeer
+285,Gambia
+286,Gan Fall
+287,Gancho
+288,Gatherine
+289,Gatz
+290,Gedatsu
+291,Gekko Moriah
+292,Genbo
+293,General Zombies
+294,General Galaxy
+295,Genzo
+296,George Black
+297,George Mach
+298,Giant Eel
+299,Giant Jack
+300,Gin
+301,Gina
+302,Ginrummy
+303,Gladius
+304,Glove
+305,Gode
+306,God's Enforcers
+307,Going Merry
+308,Gol D. Roger
+309,Goldfish Princess
+310,Gomorrah
+311,Gonbe
+312,Goo
+313,Gorilla
+314,Goro
+315,Gorosei
+316,Grabar
+317,Gram
+318,Great Michael
+319,Guilty Jurors
+320,Gyaro
+321,Gyoro
+322,Gyoru
+323,Gyro
+324,Gyro Pirates
+325,Hack
+326,Hack Fishman
+327,Hajrudin
+328,Hakowan
+329,Hamburg
+330,Hammond
+331,Hangan
+332,Hanger
+333,Hannyabal
+334,Happa
+335,Happo Navy
+336,Happygun
+337,Haredas
+338,Harisenbon
+339,Haritsu Kendiyo
+340,Haruta
+341,Hatchan
+342,Hattori
+343,Heart Pirates
+344,Heat
+345,Helmeppo
+346,Heppoko
+347,Heracles
+348,Herb
+349,Hewitt
+350,Hideo Usaguchi
+351,Higuma
+352,Hikoichi
+353,Hildon
+354,Hina
+355,Hiramera
+356,Ho
+357,Hocha
+358,Hocker
+359,Hody Jones
+360,Hoe
+361,Hoichael
+362,Holy
+363,Hotori
+364,Human Auctioning House Workers
+365,Humandrills
+366,Humphrey
+367,Hundred Beasts Pirates
+368,Hustle
+369,Hyota
+370,Hyouzou
+371,Iceburg
+372,Ichika
+373,Ichiro Kumaguchi
+374,Ideaman
+375,Ideo
+376,Igaram
+377,Ikaros Much
+378,Impel Down Guards
+379,Impel Down Prisoners
+380,Inazuma
+381,Indigo
+382,Inhel
+383,Inuppe
+384,Ippon-Matsu
+385,Isa
+386,Ishigo Shitemanna
+387,Ishilly
+388,Island Devourer
+389,Islewan
+390,Itomimizu
+391,Ivan X
+392,Izo
+393,Jabra
+394,Jack
+395,Jaguar D. Saul
+396,Jalmack
+397,Jango
+398,Jaya
+399,Jean Ango
+400,Jean Bart
+401,Jeet
+402,Jerry
+403,Jesus Burgess
+404,Jew Wall
+405,Jewelry Bonney
+406,Jigoro
+407,Jinbe
+408,Jobo
+409,John
+410,John Giant
+411,Johnny
+412,Jora
+413,Jorge
+414,Joy Boy
+415,Jozu
+416,Judy
+417,Julius
+418,Junan
+419,Kabu
+420,Kadar
+421,Kagikko
+422,Kaido
+423,Kairen
+424,Kairiken
+425,Kairiki Destroyers
+426,Kaku
+427,Kakukaku
+428,Kalifa
+429,Kamakiri
+430,Kaneshiro
+431,Kanezenny
+432,Kanjuro
+433,Kappa
+434,Karma
+435,Kasa
+436,Kasagoba
+437,Kashi
+438,Kashigami
+439,Kaya
+440,Kebi
+441,Kechatch
+442,Keimi
+443,Kelly Funk
+444,Kentauros
+445,Kerville
+446,Kibagaeru
+447,Kibin
+448,Kiev
+449,Kiku
+450,Kikyo
+451,Killer
+452,Kin'emon
+453,King of Lvneel
+454,Kinga
+455,Kingdew
+456,Kitetsu
+457,Kitton
+458,Kitton's Grandfather
+459,Kiwi
+460,Kizaru
+461,Koala
+462,Koda
+463,Kohza
+464,Kokoro
+465,Konbu
+466,Kong
+467,Kop
+468,Koshiro
+469,Kotori
+470,Koze
+471,Kuina
+472,Kuja Pirates
+473,Kuja Warriors
+474,Kumadori
+475,Kumadori Yamanbako
+476,Kumashi
+477,Kung-Fu Dugongs
+478,Kuro
+479,Kuromarimo
+480,Kuroobi
+481,Kurotsuru
+482,Kyros
+483,Kyuin
+484,Kyuji
+485,Kyukyu
+486,Laboon
+487,Lacroix
+488,Lacuba
+489,Laffitte
+490,Laki
+491,Lami
+492,Lao G
+493,Lapahn
+494,Laskey
+495,Lassoo
+496,Law Watching Unit
+497,Leo
+498,Lily
+499,Lines
+500,Lip Doughty
+501,Little Garden Dinosaur
+502,Little Oars Jr.
+503,Loguetown Citizens
+504,Loguetown Police
+505,Lola
+506,Lola Zombie
+507,Lord of the Coast
+508,Louis Arnote
+509,Lucky Roo
+510,Lulis
+511,Machvise
+512,Macro
+513,Macro Automaton
+514,Magellan
+515,Magura
+516,Maidy
+517,Makino
+518,Makko
+519,Manboshi
+520,Mani
+521,Manjaro
+522,Mansherry
+523,Manticores
+524,Marco
+525,Margarita
+526,Marguerite
+527,Maria Napole
+528,Marie
+529,Marilyn
+530,Marin
+531,Marines
+532,Mario
+533,Marmieta
+534,Mashikaku
+535,Masira
+536,Master Nekomamushi
+537,Master of the Waters
+538,Maujii
+539,Maynard
+540,Mayor Woop Slap
+541,Mayushika
+542,McGuy
+543,McKinley
+544,Meadows
+545,Megalo
+546,Mermaid Cafe Mermaids
+547,Mermaid Cove Mermaids
+548,Mero
+549,Merry
+550,Michael
+551,Mikazuki
+552,Mikio Itoo
+553,Minatomo
+554,Minister of the Left
+555,Minister of the Right
+556,Mink Tribe
+557,Minochihuahua
+558,Minokoala
+559,Minorhinoceros
+560,Minoruba
+561,Minotaurus
+562,Minozebra
+563,Miss Bakkin
+564,Miss Catharine
+565,Miss Doublefinger
+566,Miss Father's day
+567,Miss Friday
+568,Miss Goldenweek
+569,Miss Merry Christmas
+570,Miss Monday
+571,Miss Mother's Day
+572,Miss Saturday
+573,Miss Thursday
+574,Miss Tuesday
+575,Miss Universe
+576,Miss Valentine
+577,Miyagi
+578,Mizuira
+579,Mizuta Madaisuki
+580,Mizuta Mawaritosuki
+581,Mjosgard
+582,Moc Donald
+583,Mocha
+584,Mochi
+585,Mocktown Pirates
+586,Moda
+587,Mohji
+588,Mohmoo
+589,Momonga
+590,Momonosuke
+591,Monda
+592,Monet
+593,Monji
+594,Monkey D. Dragon
+595,Monkey D. Garp
+596,Monkey D. Luffy
+597,Monkey D. Luffy's Mr. Snow Man
+598,Monstar
+599,Montblanc Cricket
+600,Montblanc Noland
+601,Moodie
+602,Mornin
+603,Motobaro
+604,Motzel
+605,Mounblutain
+606,Mountain Bandits
+607,Mountain Ricky
+608,Mousse
+609,Moyle
+610,Mozambia
+611,Mozu
+612,Mr. 10
+613,Mr. 11
+614,Mr. 12
+615,Mr. 13
+616,Mr. 4
+617,Mr. 5
+618,Mr. 6
+619,Mr. 7
+620,Mr. 9
+621,Mr. Beans
+622,Mr. Love
+623,Mr. Mellow
+624,Mr. Shimizu
+625,Mukkashimi Tower
+626,Mummy
+627,Mummy Mee
+628,Muret
+629,Nako
+630,Nami
+631,Namur
+632,Natto
+633,Nefertari Cobra
+634,Nefertari Titi
+635,Nefertari Vivi
+636,Negikuma Maria
+637,Neptune
+638,Nerine
+639,Nero
+640,New Fishman Pirates
+641,New Fishman Pirates Sea Monsters
+642,Newkamas
+643,Nezumi
+644,Nico Olvia
+645,Nico Robin
+646,Nigeratta
+647,Nika
+648,Nin
+649,Ninjin
+650,Ninth
+651,Nnke-kun
+652,Noah
+653,Nojiko
+654,Nola
+655,Nora Gitsune
+656,Nosgarl
+657,Nubon
+658,Nugire Yainu
+659,Oars
+660,Octopako
+661,Octopus Mash
+662,Ohm
+663,Oimo
+664,Okame
+665,Okome
+666,Onigumo
+667,Oran
+668,Orlumbus
+669,Otohime
+670,Outlook III
+671,Pacifista
+672,Packy
+673,Pagaya
+674,Palms
+675,Pandaman
+676,Pandawoman
+677,Pansy
+678,Pantri
+679,Papaneel
+680,Pappug
+681,Pascia
+682,Patty
+683,Paulie
+684,Pavlik
+685,Pearl
+686,Pedro
+687,Peeply Lulu
+688,Pekkori
+689,Pekoms
+690,Pell
+691,Pellini
+692,Penguin
+693,Peppoko
+694,Perona
+695,Peterman
+696,Pica
+697,Pickles
+698,Pierre
+699,Piiman
+700,Pisaro
+701,Poppoko
+702,Poppy
+703,Porche
+704,Porchemy
+705,Poro
+706,Portgas D. Ace
+707,Portgas D. Rouge
+708,Potsun
+709,Princess
+710,Pudding Pudding
+711,Punk Hazard Centaurs
+712,Punk Hazard Dragon
+713,Punk Hazard Guinea Pig Children
+714,Punk Hazard Satyrs
+715,Punk Hazard Shark
+716,Punk Hazard Small Dragon
+717,Puppu
+718,Puzzle Scorpions
+719,PX-1
+720,PX-4
+721,PX-5
+722,PX-7
+723,Raizou
+724,Rakuyo
+725,Ramba
+726,Rampo
+727,Ran
+728,Rebecca
+729,Red Hair Pirates
+730,Reforte
+731,Reuder
+732,Richie
+733,Rika
+734,Riku Army Soldiers
+735,Riku Dold III
+736,Rindo
+737,Rint
+738,Ripper
+739,Ririka
+740,Risky Brothers
+741,Risky Brothers Zombies
+742,Rivers
+743,Rob Lucci
+744,Robson
+745,Roche
+746,Roche Tomson
+747,Rock
+748,Rockstar
+749,Roddy
+750,Rody
+751,Roger Pirates
+752,Roji
+753,Rokkaku
+754,Rolling Logan
+755,Rolling Pirates
+756,Ronse
+757,Roronoa Zoro
+758,Roshio
+759,Ross
+760,Roswald
+761,Rumbar Pirates
+762,Run
+763,Rush
+764,Ryuboshi
+765,Ryuma
+766,Sabaody Archipelago Bounty Hunters
+767,Sabaody Archipelago Citizens
+768,Sabaody Archipelago Pirates
+769,Sabaody Archipelago Slave Traders
+770,Sabaody Archipelago Women
+771,Sabo
+772,Sadi-chan
+773,Sai
+774,Saldeath
+775,Sally Nantuckanet
+776,Salome
+777,Sam
+778,Samurai Batts
+779,Sancrin
+780,Sandora Lizard
+781,Sanji
+782,Sanjuan Wolf
+783,Sanka
+784,Sapi
+785,Sarfunkel
+786,Sarkies
+787,Saru
+788,Satori
+789,Scarlett
+790,Schollzo
+791,Scissors
+792,Scopper Gaban
+793,Scotch
+794,Scratchmen Apoo
+795,Sea Bunny
+796,Sea Cat
+797,Sea King
+798,Seagull
+799,Seamars
+800,Seira
+801,Sengoku
+802,Senor Pink
+803,Sentomaru
+804,Seto
+805,Shachi
+806,Shakky
+807,Shalulia
+808,Sham
+809,Shanba
+810,Shandia Chief
+811,Shandians
+812,Shanks
+813,Sharinguru
+814,Sheepshead
+815,Shells Town Citizens
+816,Shelly
+817,Shiki
+818,Shiliew
+819,Shine
+820,Shion
+821,Shioyaki
+822,Shirahoshi
+823,Shoujou
+824,Shu
+825,Shura
+826,Shyarly
+827,Sicilian
+828,Sicily
+829,Silvers Rayleigh
+830,Sind
+831,Sky Lamprey
+832,Sky Shark
+833,Sky Snake
+834,Skypieans
+835,Sleepy
+836,Smiley
+837,Smoker
+838,Smoothie
+839,Sodom
+840,Soldier Zombies
+841,Sonieh
+842,Sora
+843,Soro
+844,South Bird
+845,Spacey
+846,Spandam
+847,Spandine
+848,Spartan
+849,Spector
+850,Speed Jiru
+851,Sphinx
+852,Splash
+853,Splatter
+854,Spoil
+855,Squard
+856,Stainless
+857,Stalker
+858,Stansen
+859,Stefan
+860,Stelly
+861,Stevie
+862,Stomp
+863,Stool
+864,Straw Hat Pirates
+865,Strawberry
+866,Stronger
+867,Su
+868,Sugar
+869,Suleiman
+870,Sun Pirates
+871,Super Spot-Billed Duck Squad
+872,Surprise Zombies
+873,Surume
+874,Sweet Pea
+875,Take
+876,Tamachibi
+877,Tamago
+878,Tamagon
+879,Tamanegi
+880,Tank Lepanto
+881,Tansui
+882,Tararan
+883,Taroimo
+884,Tashigi
+885,T-Bone
+886,Terracotta
+887,Terry
+888,Terry Gilteo
+889,Teru
+890,Thalassa Lucas
+891,Thatch
+892,The Going Luffy
+893,The Yonta Maria
+894,Thousand Sunny
+895,Tibany
+896,Tilestone
+897,Tom
+898,Tomato Gang
+899,Tonjit
+900,Tontatta Dwarves
+901,Tony Tony Chopper
+902,Toto
+903,Trafalgar D. Water Law
+904,Trebol
+905,Tristan
+906,Tsukimi
+907,Tsuru
+908,Turco
+909,Tyrannosaurus
+910,Ucy
+911,Ukkari
+912,Ultraking
+913,Unforgivable Mask
+914,Unigaro
+915,Unknown Jack Affiliate
+916,Unknown Reindeer Mink
+917,Unluckies
+918,Urouge
+919,Usopp
+920,Usopp Pirates
+921,Usopp's Snow Queen
+922,Uzu
+923,Van Augur
+924,Vander Decken
+925,Vander Decken IX
+926,Vasco Shot
+927,Vegapunk
+928,Vergo
+929,Very Good
+930,Victoria Cindry
+931,Viola
+932,Vista
+933,Vitan
+934,Vito
+935,Wadatsumi
+936,Wallem
+937,Wanda
+938,Wanze
+939,Wapol
+940,Wapol Pirates
+941,Warashi
+942,Water 7 Citizens
+943,Weatheria Scientists
+944,Wellington
+945,Whiskey Peak Citizens
+946,White Berets
+947,White Sea Creatures
+948,Whitebeard
+949,Whitebeard Pirates
+950,Whitey Bay
+951,Wicca
+952,Wild Zombies
+953,Willie Gallon
+954,Wiper
+955,Wire
+956,Wolf Unit
+957,X Drake
+958,Yama
+959,Yamakaji
+960,Yamenahare
+961,Yarisugi
+962,Yasopp
+963,Yokozuna
+964,Yonka
+965,Yonka Two
+966,Yonta Maria Grand Fleet
+967,Yorki
+968,Yosaku
+969,Yoshimoto
+970,Yotsubane
+971,Yu
+972,Yuki
+973,Yukichi Skull
+974,Yurikah
+975,Zadie
+976,Zambai
+977,Zeff
+978,Zeo
+979,Zodia
+980,Zombie #217
+981,Zombie Penguin Trio
+982,Zucca

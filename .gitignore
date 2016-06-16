@@ -1,6 +1,7 @@
 *
 !.gitignore
 !*.csv
+!LICENSE
 */
 
 *_old.csv

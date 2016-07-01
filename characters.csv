@@ -803,187 +803,189 @@
 803,Sea King
 804,Seagull
 805,Seamars
-806,Seira
-807,Sengoku
-808,Senor Pink
-809,Sentomaru
-810,Seto
-811,Shachi
-812,Shakky
-813,Shalulia
-814,Sham
-815,Shanba
-816,Shandia Chief
-817,Shandians
-818,Shanks
-819,Sharinguru
-820,Sheepshead
-821,Shells Town Citizens
-822,Shelly
-823,Shiki
-824,Shiliew
-825,Shine
-826,Shion
-827,Shioyaki
-828,Shirahoshi
-829,Shoujou
-830,Shu
-831,Shura
-832,Shyarly
-833,Sicilian
-834,Sicily
-835,Silvers Rayleigh
-836,Sind
-837,Sky Lamprey
-838,Sky Shark
-839,Sky Snake
-840,Skypieans
-841,Sleepy
-842,Smiley
-843,Smoker
-844,Smoothie
-845,Sodom
-846,Soldier Zombies
-847,Sonieh
-848,Sora
-849,Soro
-850,South Bird
-851,Spacey
-852,Spandam
-853,Spandine
-854,Spartan
-855,Spector
-856,Speed Jiru
-857,Sphinx
-858,Splash
-859,Splatter
-860,Spoil
-861,Squard
-862,Stainless
-863,Stalker
-864,Stansen
-865,Stefan
-866,Stelly
-867,Stevie
-868,Stomp
-869,Stool
-870,Straw Hat Pirates
-871,Strawberry
-872,Stronger
-873,Su
-874,Sugar
-875,Suleiman
-876,Sun Pirates
-877,Super Spot-Billed Duck Squad
-878,Surprise Zombies
-879,Surume
-880,Sweet Pea
-881,Take
-882,Tamachibi
-883,Tamago
-884,Tamagon
-885,Tamanegi
-886,Tank Lepanto
-887,Tansui
-888,Tararan
-889,Taroimo
-890,Tashigi
-891,T-Bone
-892,Terracotta
-893,Terry
-894,Terry Gilteo
-895,Teru
-896,Thalassa Lucas
-897,Thatch
-898,The Going Luffy
-899,The Yonta Maria
-900,Thousand Sunny
-901,Tibany
-902,Tilestone
-903,Tom
-904,Tomato Gang
-905,Tonjit
-906,Tontatta Dwarves
-907,Tony Tony Chopper
-908,Toto
-909,Trafalgar D. Water Law
-910,Trebol
-911,Tristan
-912,Tsukimi
-913,Tsuru
-914,Turco
-915,Tyrannosaurus
-916,Ucy
-917,Ukkari
-918,Ultraking
-919,Unforgivable Mask
-920,Unigaro
-921,Unknown Jack Affiliate
-922,Unknown Reindeer Mink
-923,Unluckies
-924,Urouge
-925,Usopp
-926,Usopp Pirates
-927,Usopp's Snow Queen
-928,Uzu
-929,Van Augur
-930,Vander Decken
-931,Vander Decken IX
-932,Vasco Shot
-933,Vegapunk
-934,Vergo
-935,Very Good
-936,Victoria Cindry
-937,Viola
-938,Vista
-939,Vitan
-940,Vito
-941,Wadatsumi
-942,Wallem
-943,Wanda
-944,Wanze
-945,Wapol
-946,Wapol Pirates
-947,Warashi
-948,Water 7 Citizens
-949,Weatheria Scientists
-950,Wellington
-951,Whiskey Peak Citizens
-952,White Berets
-953,White Sea Creatures
-954,Whitebeard
-955,Whitebeard Pirates
-956,Whitey Bay
-957,Wicca
-958,Wild Zombies
-959,Willie Gallon
-960,Wiper
-961,Wire
-962,Wolf Unit
-963,X Drake
-964,Yama
-965,Yamakaji
-966,Yamenahare
-967,Yarisugi
-968,Yasopp
-969,Yokozuna
-970,Yonji
-971,Yonka
-972,Yonka Two
-973,Yonta Maria Grand Fleet
-974,Yorki
-975,Yosaku
-976,Yoshimoto
-977,Yotsubane
-978,Yu
-979,Yuki
-980,Yukichi Skull
-981,Yurikah
-982,Zadie
-983,Zambai
-984,Zeff
-985,Zeo
-986,Zodia
-987,Zombie #217
-988,Zombie Penguin Trio
-989,Zucca
+806,Seducing Woods Buried Person
+807,Seducing Woods Crocodile
+808,Seira
+809,Sengoku
+810,Senor Pink
+811,Sentomaru
+812,Seto
+813,Shachi
+814,Shakky
+815,Shalulia
+816,Sham
+817,Shanba
+818,Shandia Chief
+819,Shandians
+820,Shanks
+821,Sharinguru
+822,Sheepshead
+823,Shells Town Citizens
+824,Shelly
+825,Shiki
+826,Shiliew
+827,Shine
+828,Shion
+829,Shioyaki
+830,Shirahoshi
+831,Shoujou
+832,Shu
+833,Shura
+834,Shyarly
+835,Sicilian
+836,Sicily
+837,Silvers Rayleigh
+838,Sind
+839,Sky Lamprey
+840,Sky Shark
+841,Sky Snake
+842,Skypieans
+843,Sleepy
+844,Smiley
+845,Smoker
+846,Smoothie
+847,Sodom
+848,Soldier Zombies
+849,Sonieh
+850,Sora
+851,Soro
+852,South Bird
+853,Spacey
+854,Spandam
+855,Spandine
+856,Spartan
+857,Spector
+858,Speed Jiru
+859,Sphinx
+860,Splash
+861,Splatter
+862,Spoil
+863,Squard
+864,Stainless
+865,Stalker
+866,Stansen
+867,Stefan
+868,Stelly
+869,Stevie
+870,Stomp
+871,Stool
+872,Straw Hat Pirates
+873,Strawberry
+874,Stronger
+875,Su
+876,Sugar
+877,Suleiman
+878,Sun Pirates
+879,Super Spot-Billed Duck Squad
+880,Surprise Zombies
+881,Surume
+882,Sweet Pea
+883,Take
+884,Tamachibi
+885,Tamago
+886,Tamagon
+887,Tamanegi
+888,Tank Lepanto
+889,Tansui
+890,Tararan
+891,Taroimo
+892,Tashigi
+893,T-Bone
+894,Terracotta
+895,Terry
+896,Terry Gilteo
+897,Teru
+898,Thalassa Lucas
+899,Thatch
+900,The Going Luffy
+901,The Yonta Maria
+902,Thousand Sunny
+903,Tibany
+904,Tilestone
+905,Tom
+906,Tomato Gang
+907,Tonjit
+908,Tontatta Dwarves
+909,Tony Tony Chopper
+910,Toto
+911,Trafalgar D. Water Law
+912,Trebol
+913,Tristan
+914,Tsukimi
+915,Tsuru
+916,Turco
+917,Tyrannosaurus
+918,Ucy
+919,Ukkari
+920,Ultraking
+921,Unforgivable Mask
+922,Unigaro
+923,Unknown Jack Affiliate
+924,Unknown Reindeer Mink
+925,Unluckies
+926,Urouge
+927,Usopp
+928,Usopp Pirates
+929,Usopp's Snow Queen
+930,Uzu
+931,Van Augur
+932,Vander Decken
+933,Vander Decken IX
+934,Vasco Shot
+935,Vegapunk
+936,Vergo
+937,Very Good
+938,Victoria Cindry
+939,Viola
+940,Vista
+941,Vitan
+942,Vito
+943,Wadatsumi
+944,Wallem
+945,Wanda
+946,Wanze
+947,Wapol
+948,Wapol Pirates
+949,Warashi
+950,Water 7 Citizens
+951,Weatheria Scientists
+952,Wellington
+953,Whiskey Peak Citizens
+954,White Berets
+955,White Sea Creatures
+956,Whitebeard
+957,Whitebeard Pirates
+958,Whitey Bay
+959,Wicca
+960,Wild Zombies
+961,Willie Gallon
+962,Wiper
+963,Wire
+964,Wolf Unit
+965,X Drake
+966,Yama
+967,Yamakaji
+968,Yamenahare
+969,Yarisugi
+970,Yasopp
+971,Yokozuna
+972,Yonji
+973,Yonka
+974,Yonka Two
+975,Yonta Maria Grand Fleet
+976,Yorki
+977,Yosaku
+978,Yoshimoto
+979,Yotsubane
+980,Yu
+981,Yuki
+982,Yukichi Skull
+983,Yurikah
+984,Zadie
+985,Zambai
+986,Zeff
+987,Zeo
+988,Zodia
+989,Zombie #217
+990,Zombie Penguin Trio
+991,Zucca

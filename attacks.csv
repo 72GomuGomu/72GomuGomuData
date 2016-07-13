@@ -1,9 +1,9 @@
-1,599,Gomu Gomu no Pistol,Gomu Gomu Pistol
-2,599,Gomu Gomu no Rocket,Gomu Gomu Rocket
-3,599,Gomu Gomu no Muchi,Gomu Gomu Whip
+1,601,Gomu Gomu no Pistol,Gomu Gomu Pistol
+2,601,Gomu Gomu no Rocket,Gomu Gomu Rocket
+3,601,Gomu Gomu no Muchi,Gomu Gomu Whip
 4,115,Bara Bara Ho,Split Split Cannon
-5,599,Gomu Gomu no Tsuchi,Gomu Gomu Mallet
-6,599,Gomu Gomu no Fusen,Gomu Gomu Balloon
+5,601,Gomu Gomu no Tsuchi,Gomu Gomu Mallet
+6,601,Gomu Gomu no Fusen,Gomu Gomu Balloon
 7,123,Kyokugi! Kaji Oyaji,Acrobatics! Old Man's Flame
 8,123,Kyokugi! Yukemuri Satsujin Jiken,Acrobatics! Murder Case in the Hot Spring's Steam
 9,123,Kyokugi! Kamikaze Hyakkoma Gekijō,Acrobatics! Theater of One Hundred Kamikaze Tops
@@ -11,334 +11,334 @@
 11,123,Kyokugi! Nōryō Uchiage Hanabi,Acrobatics! Cool Evening Firework Launch
 12,123,Ichirin Zashi,Wheel Stab
 13,115,Chi wo Hau Bara Bara Ho,Ground Runner Split Split Cannon
-14,763,Oni Giri,Demon Slash
+14,766,Oni Giri,Demon Slash
 15,115,Bara Bara Senbei,Split Split Rice Cracker
 16,115,Bara Bara Kinkyu Dasshutsu,Split Split Emergency Escape
-17,599,Gomu Gomu no Kama,Gomu Gomu Sickle
+17,601,Gomu Gomu no Kama,Gomu Gomu Sickle
 18,115,Bara Bara Ho Kirihanashi,Split Split Cannon - Detach
 19,115,Bara Bara Festival,Split Split Festival
-20,599,Gomu Gomu no Bazooka,Gomu Gomu Bazooka
-21,927,Namari Boshi,Lead Star
-22,599,Gomu Gomu no Gatling,Gomu Gomu Gatling
+20,601,Gomu Gomu no Bazooka,Gomu Gomu Bazooka
+21,930,Namari Boshi,Lead Star
+22,601,Gomu Gomu no Gatling,Gomu Gomu Gatling
 23,113,Cat the Funjyatta,The Cat Stomp
 24,113,Neko-Yanagi Daikoshin,Grand March of the Pussywillows
-25,816,Neko-Yanagi Daikoshin,Grand March of the Pussywillows
-26,481,Nuki Ashi,Stealth Foot
-27,763,Tora Gari,Tiger Hunt
-28,599,Gomu Gomu no Yari,Gomu Gomu Lance/Spear
-29,481,Shakushi,Creeping Cat
-30,927,Kayaku Boshi,Gunpowder Star
-31,599,Gomu Gomu no Kane,Gomu Gomu Bell
-32,686,Shokuatari Meatball,Indigestion Meatball
-33,763,Santoryu Ogi:Sanzen Sekai,Three-Sword Style Secret Technique: Three Thousand Worlds
+25,819,Neko-Yanagi Daikoshin,Grand March of the Pussywillows
+26,483,Nuki Ashi,Stealth Foot
+27,766,Tora Gari,Tiger Hunt
+28,601,Gomu Gomu no Yari,Gomu Gomu Lance/Spear
+29,483,Shakushi,Creeping Cat
+30,930,Kayaku Boshi,Gunpowder Star
+31,601,Gomu Gomu no Kane,Gomu Gomu Bell
+32,688,Shokuatari Meatball,Indigestion Meatball
+33,766,Santoryu Ogi:Sanzen Sekai,Three-Sword Style Secret Technique: Three Thousand Worlds
 34,0,Haoshoku Haki,Haki of the Color of the Conquering King
 35,0,Kenbunshoku Haki,Color of Observation
 36,0,Busoshoku Haki,Haki of the Color of Armaments
-37,763,Santoryu,Three Swords Style
-38,599,Gomu Gomu no Ogama,Gomu Gomu Scythe
-39,787,Party Table Kick Course,Party Table Kick Course
-40,763,Yaki Oni Giri,Burning Demon Slash
-41,689,Fire Pearl Daitokuten,Fire Pearl Huge Favor
-42,689,Fire Pearl Present,Fire Pearl Present
-43,689,Cho Tennen Pearl Present,Ultra Natural Pearl Present
-44,689,Pearl Present,Pearl Present
-45,689,Pearl Close,Pearl Close
-46,689,Service Pearl Ishibigin Present,Service Pearl Oxidized Silver Present
-47,689,Dameoshi Pearl Present,Double-certain Pearl Present
-48,599,Gomu Gomu no Ono,Gomu Gomu Battle Axe
-49,217,Wootz-Ko No Yoroi,Wootz Steel Armor
-50,217,Dia no Kobushi,Diamond Fists
-51,217,Dangan,Gun Array
-52,217,Morning Star,Morning Star
-53,217,Sakuretsu Shuriken,Shuriken Bomb
-54,217,Bakudan,Bombs
-55,217,Needle Machine Gun,Needle Machine Gun
-56,217,Modoku Gas Dan MH5,Deadly Poison Gas Bomb: MH5
-57,217,Kenzan Mantle,Sword Mountain Mantle
-58,217,Daisenso,Great Battle Spear
-59,217,Kaen Hosha,Flamethrower
-60,217,Tetsu no Ami,Iron Net
-61,599,Gomu Gomu no Pistol Shot,Gomu Gomu Pistol Shrapnel
-62,599,Gomu Gomu no Bullet,Gomu Gomu Bullet
-63,599,Gomu Gomu no Bow Gun,Gomu Gomu Bow Gun
-64,599,Gomu Gomu no Rifle,Gomu Gomu Spinning Bullet
-65,599,Gomu Gomu no Cannon,Gomu Gomu Castle Attacking Cannon
-66,599,Gomu Gomu no Ozuchi,Gomu Gomu Big Mallet
-67,599,Gomu Gomu no Kazaguruma,Gomu Gomu Windmill
-68,599,Gomu Gomu no Tate,Gomu Gomu Shield
-69,599,Gomu Gomu no Ami,Gomu Gomu Net
-70,599,Gomu Gomu no Ikebana,Gomu Gomu Flower Arrangement
-71,599,Gomu Gomu no Stamp,Gomu Gomu Stamp
-72,599,Gomu Gomu no Stamp Gatling,Gomu Gomu Stamp Gatling
-73,599,Gomu Gomu no Dame Da!,Gomu Gomu No Way!
-74,599,Gomu Gomu no Baku Baku,Gomu Gomu Chomp Chomp
-75,599,Gomu Gomu no Marunoko,Gomu Gomu Buzzsaw
-76,599,Gomu Gomu no Storm,Gomu Gomu Storm
-77,599,Gomu Gomu no Hanabi,Gomu Gomu Fireworks
-78,599,Gomu Gomu no Boh,Gomu Gomu Space Out
-79,599,Gomu Gomu no Tako,Gomu Gomu Octopus
-80,599,Gomu Gomu no Tako Hanabi,Gomu Gomu Octopus Fireworks
-81,599,Gomu Gomu no Mikata Robo,Gomu Gomu Ally Robot
-82,599,Gomu Gomu no Mikata Robo Punch,Gomu Gomu Ally Robot Punch
-83,599,Gomu Gomu no Mikata Robo Kick,Gomu Gomu Ally Robot Kick
-84,599,Gomu Gomu no Kazan,Gomu Gomu Volcano
-85,599,Gomu Gomu no Ame,Gomu Gomu Rain
-86,599,Gomu Gomu no Migawari,Gomu Gomu Scapegoat
-87,599,Gomu Gomu no Snake Shot,Gomu Gomu Snake Shot
-88,599,Gomu Gomu no Orei Fire,Gomu Gomu Thank You Fire
-89,599,Buso Koka: Gomu Gomu no Gatling,Armament Hardening: Gomu Gomu Gatling Gun
-90,599,Buso Koka: Gomu Gomu no Bullet,Armament Hardening: Gomu Gomu Bullet
-91,599,Gomu Gomu no UFO,Gomu Gomu UFO
-92,599,Atama Buso: Gomu Gomu no Kane,Head Armament: Gomu Gomu Bell
-93,599,Gomu Gomu no Tako Stamp,Gomu Gomu Octopus Stamp
-94,599,Gomu Gomu no Jet Pistol,Gomu Gomu Jet Pistol
-95,599,Gomu Gomu no Jet Stamp,Gomu Gomu Jet Stamp
-96,599,Gomu Gomu no Jet Bazooka,Gomu Gomu Jet Bazooka
-97,599,Gomu Gomu no Jet Whip,Gomu Gomu Jet Whip
-98,599,Gomu Gomu no Jet Bullet,Gomu Gomu Jet Bullet
-99,599,Gomu Gomu no Twin Jet Pistol,Gomu Gomu Twin Jet Pistol
-100,599,Gomu Gomu no Jet Gatling,Gomu Gomu Jet Gatling
-101,599,Gomu Gomu no Jet Rocket,Gomu Gomu Jet Rocket
-102,599,Gomu Gomu no Jet Migawari,Gomu Gomu Jet Substitute
-103,599,Gomu Gomu no Jet Hammer,Gomu Gomu Jet Hammer
-104,599,Gomu Gomu no Jet Mace,Gomu Gomu Jet Mace
-105,599,Gomu Gomu no Jet Spear,Gomu Gomu Jet Spear
-106,599,Gomu Gomu no Red Hawk,Gomu Gomu Fire Pistol
-107,599,Buso Koka: Gomu Gomu no Jet Gatling,Armament Hardening: Gomu Gomu Jet Gatling
-108,599,Gomu Gomu no Hawk Rifle,Gomu Gomu Hawk Rifle
-109,599,Gomu Gomu no Hawk Gatling,Gomu Gomu Hawk Gun Battering
-110,599,Hone Fusen,Bone Balloon
-111,599,Gomu Gomu no Gigant Pistol,Gomu Gomu Giant Pistol
-112,599,Gomu Gomu no Gigant Axe,Gomu Gomu Giant Axe
-113,599,Gomu Gomu no Gigant Whip,Gomu Gomu Giant Whip
-114,599,Gomu Gomu no Gigant Bazooka,Gomu Gomu Giant Bazooka
-115,599,Gomu Gomu no Gigant Jet Shell,Gomu Gomu Giant Jet Cannonball
-116,599,Gomu Gomu no Gigant Rifle,Gomu Gomu Giant Spinning Bullet
-117,599,Gomu Gomu no Gigant Stamp,Gomu Gomu Giant Stamp
-118,599,Gomu Gomu no Gigant Fusen,Gomu Gomu Giant Balloon
-119,599,Gomu Gomu no Elephant Gun,Gomu Gomu Elephant Gun
-120,599,Gomu Gomu no Elephant Gatling,Gomu Gomu Elephant Gatling
-121,599,Gomu Gomu no Grizzly Magnum,Gomu Gomu Grizzly Bear Gun
-122,599,Gomu Gomu no Thor Elephant Gun,Gomu Gomu Thunder General Elephant Gun
-123,816,Neko Baba,Cat Snatch
-124,816,Nekoze,Hunchback
+37,766,Santoryu,Three Swords Style
+38,601,Gomu Gomu no Ogama,Gomu Gomu Scythe
+39,790,Party Table Kick Course,Party Table Kick Course
+40,766,Yaki Oni Giri,Burning Demon Slash
+41,691,Fire Pearl Daitokuten,Fire Pearl Huge Favor
+42,691,Fire Pearl Present,Fire Pearl Present
+43,691,Cho Tennen Pearl Present,Ultra Natural Pearl Present
+44,691,Pearl Present,Pearl Present
+45,691,Pearl Close,Pearl Close
+46,691,Service Pearl Ishibigin Present,Service Pearl Oxidized Silver Present
+47,691,Dameoshi Pearl Present,Double-certain Pearl Present
+48,601,Gomu Gomu no Ono,Gomu Gomu Battle Axe
+49,218,Wootz-Ko No Yoroi,Wootz Steel Armor
+50,218,Dia no Kobushi,Diamond Fists
+51,218,Dangan,Gun Array
+52,218,Morning Star,Morning Star
+53,218,Sakuretsu Shuriken,Shuriken Bomb
+54,218,Bakudan,Bombs
+55,218,Needle Machine Gun,Needle Machine Gun
+56,218,Modoku Gas Dan MH5,Deadly Poison Gas Bomb: MH5
+57,218,Kenzan Mantle,Sword Mountain Mantle
+58,218,Daisenso,Great Battle Spear
+59,218,Kaen Hosha,Flamethrower
+60,218,Tetsu no Ami,Iron Net
+61,601,Gomu Gomu no Pistol Shot,Gomu Gomu Pistol Shrapnel
+62,601,Gomu Gomu no Bullet,Gomu Gomu Bullet
+63,601,Gomu Gomu no Bow Gun,Gomu Gomu Bow Gun
+64,601,Gomu Gomu no Rifle,Gomu Gomu Spinning Bullet
+65,601,Gomu Gomu no Cannon,Gomu Gomu Castle Attacking Cannon
+66,601,Gomu Gomu no Ozuchi,Gomu Gomu Big Mallet
+67,601,Gomu Gomu no Kazaguruma,Gomu Gomu Windmill
+68,601,Gomu Gomu no Tate,Gomu Gomu Shield
+69,601,Gomu Gomu no Ami,Gomu Gomu Net
+70,601,Gomu Gomu no Ikebana,Gomu Gomu Flower Arrangement
+71,601,Gomu Gomu no Stamp,Gomu Gomu Stamp
+72,601,Gomu Gomu no Stamp Gatling,Gomu Gomu Stamp Gatling
+73,601,Gomu Gomu no Dame Da!,Gomu Gomu No Way!
+74,601,Gomu Gomu no Baku Baku,Gomu Gomu Chomp Chomp
+75,601,Gomu Gomu no Marunoko,Gomu Gomu Buzzsaw
+76,601,Gomu Gomu no Storm,Gomu Gomu Storm
+77,601,Gomu Gomu no Hanabi,Gomu Gomu Fireworks
+78,601,Gomu Gomu no Boh,Gomu Gomu Space Out
+79,601,Gomu Gomu no Tako,Gomu Gomu Octopus
+80,601,Gomu Gomu no Tako Hanabi,Gomu Gomu Octopus Fireworks
+81,601,Gomu Gomu no Mikata Robo,Gomu Gomu Ally Robot
+82,601,Gomu Gomu no Mikata Robo Punch,Gomu Gomu Ally Robot Punch
+83,601,Gomu Gomu no Mikata Robo Kick,Gomu Gomu Ally Robot Kick
+84,601,Gomu Gomu no Kazan,Gomu Gomu Volcano
+85,601,Gomu Gomu no Ame,Gomu Gomu Rain
+86,601,Gomu Gomu no Migawari,Gomu Gomu Scapegoat
+87,601,Gomu Gomu no Snake Shot,Gomu Gomu Snake Shot
+88,601,Gomu Gomu no Orei Fire,Gomu Gomu Thank You Fire
+89,601,Buso Koka: Gomu Gomu no Gatling,Armament Hardening: Gomu Gomu Gatling Gun
+90,601,Buso Koka: Gomu Gomu no Bullet,Armament Hardening: Gomu Gomu Bullet
+91,601,Gomu Gomu no UFO,Gomu Gomu UFO
+92,601,Atama Buso: Gomu Gomu no Kane,Head Armament: Gomu Gomu Bell
+93,601,Gomu Gomu no Tako Stamp,Gomu Gomu Octopus Stamp
+94,601,Gomu Gomu no Jet Pistol,Gomu Gomu Jet Pistol
+95,601,Gomu Gomu no Jet Stamp,Gomu Gomu Jet Stamp
+96,601,Gomu Gomu no Jet Bazooka,Gomu Gomu Jet Bazooka
+97,601,Gomu Gomu no Jet Whip,Gomu Gomu Jet Whip
+98,601,Gomu Gomu no Jet Bullet,Gomu Gomu Jet Bullet
+99,601,Gomu Gomu no Twin Jet Pistol,Gomu Gomu Twin Jet Pistol
+100,601,Gomu Gomu no Jet Gatling,Gomu Gomu Jet Gatling
+101,601,Gomu Gomu no Jet Rocket,Gomu Gomu Jet Rocket
+102,601,Gomu Gomu no Jet Migawari,Gomu Gomu Jet Substitute
+103,601,Gomu Gomu no Jet Hammer,Gomu Gomu Jet Hammer
+104,601,Gomu Gomu no Jet Mace,Gomu Gomu Jet Mace
+105,601,Gomu Gomu no Jet Spear,Gomu Gomu Jet Spear
+106,601,Gomu Gomu no Red Hawk,Gomu Gomu Fire Pistol
+107,601,Buso Koka: Gomu Gomu no Jet Gatling,Armament Hardening: Gomu Gomu Jet Gatling
+108,601,Gomu Gomu no Hawk Rifle,Gomu Gomu Hawk Rifle
+109,601,Gomu Gomu no Hawk Gatling,Gomu Gomu Hawk Gun Battering
+110,601,Hone Fusen,Bone Balloon
+111,601,Gomu Gomu no Gigant Pistol,Gomu Gomu Giant Pistol
+112,601,Gomu Gomu no Gigant Axe,Gomu Gomu Giant Axe
+113,601,Gomu Gomu no Gigant Whip,Gomu Gomu Giant Whip
+114,601,Gomu Gomu no Gigant Bazooka,Gomu Gomu Giant Bazooka
+115,601,Gomu Gomu no Gigant Jet Shell,Gomu Gomu Giant Jet Cannonball
+116,601,Gomu Gomu no Gigant Rifle,Gomu Gomu Giant Spinning Bullet
+117,601,Gomu Gomu no Gigant Stamp,Gomu Gomu Giant Stamp
+118,601,Gomu Gomu no Gigant Fusen,Gomu Gomu Giant Balloon
+119,601,Gomu Gomu no Elephant Gun,Gomu Gomu Elephant Gun
+120,601,Gomu Gomu no Elephant Gatling,Gomu Gomu Elephant Gatling
+121,601,Gomu Gomu no Grizzly Magnum,Gomu Gomu Grizzly Bear Gun
+122,601,Gomu Gomu no Thor Elephant Gun,Gomu Gomu Thunder General Elephant Gun
+123,819,Neko Baba,Cat Snatch
+124,819,Nekoze,Hunchback
 125,115,Bara Bara Car,Split Split Car
 126,115,Kuchu Kirimomi Dai Circus,Aerial Spinning Big Circus
-127,927,Sanren Kayaku Boshi,Triple Gunpowder Star
-128,927,Kayaku Hoshi Boshi,Gunpowder Star Star
-129,927,Rolling Kayaku Boshi,Rolling Gunpowder Star
-130,927,Tamago Boshi,Egg Star
-131,927,Kemuri Boshi,Smoke Star
-132,927,Kaen Boshi,Flame Star
-133,927,Shinsen Tamago Boshi,Fresh Egg Star
-134,927,Tokusei Tabasco Boshi,Deluxe Tabasco Star
-135,927,Akahebi Boshi,Red Snake Star
-136,927,Shuriken Ryusei-gun,Shuriken Meteoric Swarm
-137,927,Sakuretsu Saboten Boshi,Exploding Cactus Star
-138,927,Ketchup Boshi,Ketchup Star
-139,927,Usopp Wagomu,Usopp Rubber Band
-140,927,Usopp Spell,Usopp Spell
-141,927,Hissatsu Ganmen Bikkuri Bako,Sure-Kill Face Jack-in-the-Box
-142,927,Usopp Hammer,Usopp Hammer
-143,927,Usopp Pound,Usopp Pulverization
-144,927,Hissatsu Uso-Cho Hammer Suisei,Sure-Kill UsoCho Hammer Comet
-145,927,Usopp Golden Pound,Usopp Golden Pound
-146,927,Uso 100 Ton Hammer,Uso 100 Ton Hammer
-147,927,Tone Dial,Tone Dial
-148,927,Breath Dial,Breath Dial
-149,927,Impact Dial,Impact Dial
-150,927,Flash Dial,Flash Dial
-151,927,Makibishi Jigoku,Caltrop Hell
-152,927,Usopp Noise,Usopp Noise
-153,927,Usopp AAaaaAAAaaaAA!,Usopp AAaaaAAAaaaAA!
-154,927,Octopakutsu,Octopushoes
-155,927,Usopp Hopping,Usopp Hopping
-156,927,Zombie Shoten Salt Ball,Zombie-Purifying Salt Ball
-157,927,Kaen Dama,Blaze Ball
-158,927,Kokkara Koko Made Hairu na no Jutsu,No Enter From Here to Here Technique
-159,927,Tetsujin Suisei,Iron Man Comet
-160,927,Tokudai Reitoko no Cho Tei'on Reiki Ho,Extra Large Freezer's Super Sub-Zero Freezing Cannon
-161,927,Hokaku Boshi,Capture Star
-162,927,Hi no Tori Boshi,Fire Bird Star
-163,927,Himawari Boshi,Sunflower Star
-164,927,Cho Kemuri Boshi,Super Smoke Star
-165,927,Rokuren Mamushi Boshi,Six Chamber Pit-Viper Star
-166,927,En Boshi,Salt Star
-167,927,Ageha Ryusei,Swallowtail Butterfly Meteor
-168,927,Kamakiri Ryūsei,Praying Mantis Meteor
-169,927,Atlas Suisei,Atlas Comet
-170,927,Torimochi Boshi,Sticky Star
-171,927,Gokiburi Boshi,Cockroach Star
-172,927,Tokuyo Abura Boshi,Special Oil Star
-173,927,Super Size Hi no Tori Boshi,Super Size Fire Bird Star
-174,927,Kaenbin,"Flame Bottle,Gas,Hedge,Arrow Piece,and Blazing Meteor"
-175,927,Renpatsu Kaen Boshi,Multiple Flame Stars
-176,927,Tenryu Boshi,Heavenly Dragon Star
-177,927,Grow Up,Grow Up
-178,927,Totsugeki Ryuseigun,Charging Meteor Shower
-179,927,Super Grow Up,Super Grow Up
-180,927,Bagworm,Bagworm Star
-181,927,Midori Boshi: Devil,Green Star: Devil
-182,927,Midori Boshi: Sargasso,Green Star: Sargasso
-183,927,Midori Boshi: Rafflesia,Green Star: Rafflesia
-184,927,Midori Boshi: Take Jave-rin,Green Star: Bamboo Javelin-Grove
-185,927,Midori Boshi: Dokuro Bakuhatsu So,Green Star: Green Star: Skull Exploding Grass
-186,927,Midori Boshi: Humandrake,Green Star: Humandrake
-187,927,Midori Boshi: Trampolia ,Green Star: Trampolia
-188,927,Midori Boshi: Impact Wolf,Green Star: Impact Wolf Grass
-189,927,Midori Boshi: Boaty Banana,Green Star: Boaty Banana
-190,927,Midori Boshi: Uchiwa So,Green Star: Fan Grass
-191,927,Midori Boshi: Platanus Shuriken,Green Star: Platanus Shuriken
-192,927,Bakusui Boshi,Burst Sleep Star
-193,927,Fire Bird Star,Fire Bird Star
-194,927,Kairoseki Handcuffs,Kairoseki Handcuffs
-195,763,Enbima Yonezu Oni Giri,Charm Demon Sleepless Night Demon Slash
-196,763,Toro Nagashi,Sword Wolf Floating
-197,763,Tatsu Maki,Dragon Twister
-198,763,Ushi Bari,Bull Horns
-199,763,Gazami Dori,Crab Seize
-200,763,Hyakuhachi Pound Ho,Phoenix of the 108 Earthly Desires
-201,763,Karasuma Gari,Demon Crow Hunt
-202,763,Gyuki: Yuzume,Cattle Demon: Brave Hoof
-203,763,Ichi Gorilla,One Gorilla
-204,763,Ni Gorilla,Two Gorillas
-205,763,Nigori-Zake,Two-Arm Strength Slash
-206,763,Hyo Kin Dama,Leopard Koto Ball
-207,763,Daibutsu Giri,Great Buddha Cut
-208,763,Yasha Garasu,Yaksa Crow
-209,763,Santoryu Ogi: Rokudo no Tsuji,Three Swords Style Secret Technique: Crossing of Six Paths
-210,763,Kokujō: Ō Tatsumaki,Kalasutra: Great Dragon Twister
-211,763,Rengoku Oni Giri,Purgatory Demon Slash
-212,763,Ul-Tora Gari,Extreme Tiger Hunt
-213,763,Senhachiju Pound Ho,1080 Pound Cannon
-214,763,Santoryu Ogi: Ichidai Sanzen Daisen Sekai,Three Swords Style Secret Technique: Great Three Thousand Great Thousand Worlds
-215,763,Taka Nami,Hawk Wave
-216,763,Sai Kuru,Rolling Rhino
-217,763,Nitoryu Iai: Rashomon,Two Sword Style Draw and Resheath Technique: Castle Gate
-218,763,Nanajuni Pound Ho,Phoenix of the 72 Earthly Desires
-219,763,Nigiri,Double Slash
-220,763,Toro,Climbing a Tower
-221,763,Otoro,Reply Climbing a Tower
-222,763,Hirameki,Flash
-223,763,Samon,Sand Drawing
-224,763,Maguma,Demon Bear
-225,763,Dai Gekken,Great Fencing Sword
-226,763,Ittoryu Iai: Shishi Sonson,One Sword Style Draw and Resheath Technique: Lion's Song
-227,763,Sanjuroku Pound Ho,Phoenix of the 36 Earthly Desires
-228,763,Hiryu: Kaen,Flying Dragon: Blaze
-229,763,Yakkodori,Disaster Harbor Bird
-230,763,Sanbyakurokuju Pound Ho,360 Pound Cannon
-231,763,Ittoryu Iai: Shi Shishi Sonson,One Sword Style Draw and Resheath Technique: Lion's Song of Death
-232,763,Daishinkan,Great Dragon Shock
-233,763,Baki,Horse Demon
-234,763,Nitoryu,Two Sword Style
-235,763,Ittoryu,One Sword Style
-236,763,Mutoryu,No Sword Style
-237,763,Kyutoryu,Nine Sword Style
-238,763,Kiki Kyutoryu: Ashura,Demon Spirit Nine Sword Style: Asura
-239,763,Ashura: Ichibugin,Asura: One Mist Silver
-240,763,Ashura: Makyusen,Asura: Demon Nine Flashes
-241,763,Ashura: Ugui,Asura: Drilling Force
-242,763,Gomu Gomu no Tatsu Épaule Muchi Maki Shoot,Rubber Rubber Dragon Shoulder Whip Twister Shoot
-243,599,Gomu Gomu no Tatsu Épaule Muchi Maki Shoot,Rubber Rubber Dragon Shoulder Whip Twister Shoot
-244,787,Gomu Gomu no Tatsu Épaule Muchi Maki Shoot,Rubber Rubber Dragon Shoulder Whip Twister Shoot
-245,763,Armée de L'air Power Shoot,Air Force Power Shoot
-246,787,Armée de L'air Power Shoot,Air Force Power Shoot
-247,763,Gomu Gomu no Sanbyaku Pound Cannon,Rubber Rubber 300 Pound Cannon
-248,599,Gomu Gomu no Sanbyaku Pound Cannon,Rubber Rubber 300 Pound Cannon
-249,787,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
-250,763,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
-251,599,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
-252,648,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
-253,270,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
-254,270,Knee Crash,Knee Crash
-255,763,Knee Crash,Knee Crash
-256,763,Santoryu Gomu Gomu no Diable Mouton Jet Roppyaku Pound Cannon,Three-Sword Style Rubber Rubber Devil's Mutton Jet 600 Pound Cannon
-257,599,Santoryu Gomu Gomu no Diable Mouton Jet Roppyaku Pound Cannon,Three-Sword Style Rubber Rubber Devil's Mutton Jet 600 Pound Cannon
-258,787,Santoryu Gomu Gomu no Diable Mouton Jet Roppyaku Pound Cannon,Three-Sword Style Rubber Rubber Devil's Mutton Jet 600 Pound Cannon
-259,787,Collier,Neck
-260,787,Collier Shoot,Neck Shoot
-261,787,Épaule,Shoulder
-262,787,Épaule Shoot,Shoulder Shoot
-263,787,Côtelette,Rib
-264,787,Selle,Lower Back
-265,787,Poitrine,Breast/Chest
-266,787,Poitrine Shoot,Breast/Chest Shoot
-267,787,Gigot,Legs
-268,787,Mouton Shot,Sheep Shot
-269,787,Reception,Reception
-270,787,Anti-Manner Kick Course,Behavior Antithesis Kick Course
-271,787,Basse Côte,Shoulder Roast
-272,787,Longe,Loin
-273,787,Tendron,Collar
-274,787,Flanchet,Stomach
-275,787,Flanchet Shoot,Stomach Shoot
-276,787,Quasi,Rump
-277,787,Queue,Tail
-278,787,Cuisseau,Thigh
-279,787,Cuisseau Shoot,Thigh Shoot
-280,787,Jarret,Shin
-281,787,Veau Shot,Veal Shot
-282,787,Concassé,Crush
-283,787,Troisième Hachée,Third-Rate Mincemeat
-284,787,Bouquetière Shot,Mixed Vegetables Shot
-285,787,Slice Shoot,Sliced Shoot
-286,787,Brochette,Skewer
-287,787,Collier Frit,Fried Neck
-288,787,Frit Assorti,Fried Assortment
-289,787,Escalope,Thin Slices
-290,787,Œil,Eye
-291,787,Nez,Nose
-292,787,Joue,Cheek
-293,787,Joue Shoot,Cheek Shoot
-294,787,Bouche,Mouth
-295,787,Dents,Teeth
-296,787,Menton,Chin
-297,787,Parage Shot,Cosmetic Surgery Shot
-298,787,Santen Découpage,Three Point Cut
-299,787,Shishinabe Shoot,Boar Hot Pot Shoot
-300,787,Deuxième Hachée,Second-Rate Mincemeat
-301,787,Extra Hachée,Highest-Rate Mincemeat
-302,787,Jenga Ho,Jenga Cannon
-303,787,Blue Walk,Sea Walk
-304,787,Sky Walk,Sky Walk
-305,787,Hell Memories,Hell Memories
-306,787,Diable Jambe,Devil's Leg
-307,787,Premier Hachis,First-Rate Mincemeat
-308,787,Flambage Shot,Flambé Shot
-309,787,Extra Hachis,Highest-Rate Mincemeat
-310,787,Bien Cuit,Well Cooked: Grill Shot
-311,787,Poêle à Frire: Spectre,Frying Pan: Spectrum
-312,787,Collier Strike,Neck Strike
-313,787,Flanchet Strike,Stomach Strike
-314,787,Armée de L'Air Gomu Shot,Air Force Rubber Shoot
-315,599,Armée de L'Air Gomu Shot,Air Force Rubber Shoot
-316,787,Hell Memories Gomu Shot,Hell Memories Gomu Shot
-317,599,Hell Memories Gomu Shot,Hell Memories Gomu Shot
-318,787,Armée de L'Air Kokutei Roseo Shoot,Air Force Carving Hoof Cherry Blossom Shoot
-319,909,Armée de L'Air Kokutei Roseo Shoot,Air Force Carving Hoof Cherry Blossom Shoot
-320,153,Mizudeppo,Water Gun
-321,153,Mizu Taiho,Water Cannon
-322,153,Hyappatsu Mizudeppo,Hundred-Shot Water Gun
-323,344,Takoashi Kiken,Octopus Foot Miracle Swords
-324,344,Takotsubo no Kamae,Octopus Pot Stance
-325,344,Shin Shun - Tako Age - Taikai,New Spring - Open the Octopus - Break It Apart
-326,344,Rokutoryu Ogi: Rokuto no Waltz,Six-Sword Style Ultimate Technique: Six-Sword Waltz
-327,344,Shikai Zero: Takohachi Black,Zero Visibility: Octopus Hachi Black
-328,344,Takohachi Black on the Rock,Octopus Hachi Black on the Rock
-329,344,Tako San Ren Shin Ken Shira Ha Dori,Octopus Concentrated Three Timed Blade Interception
-330,344,Takohachi Number Nine,Octopus Hachi Suckers
-331,344,Takoyaki Punch,Flaming Octopus Punch
-332,344,Rokutoryu,Six Swords Style
-333,483,Fishman Karate: Hyakumaigawara Seiken,Hundred Tile True Punch
-334,483,Fishman Karate: Wanto Giri,Arm Blade Slash
-335,483,Fishman Karate: Itomaki Kumite,Devilfish Sparring
-336,483,Fishman Karate: Kaisoku: Harakudashigeri,Sea-Speed Stomach Drop Kick
-337,483,Fishman Karate: Ka Ka Kakato Otoshi,Fire Flower Heel Drop
-338,483,Fishman Karate: Kachiage Haisoku,Rising Thrust-Kick
-339,483,Fishman Karate: Jodan Bakusho,High-Rank Exploding Palm
-340,483,Fishman Karate: Appakushi Chokka Koro,Death by Pressure Plunge
-341,483,Fishman Karate: Senmaigawara Seiken,Thousand Tile True Punch
+127,930,Sanren Kayaku Boshi,Triple Gunpowder Star
+128,930,Kayaku Hoshi Boshi,Gunpowder Star Star
+129,930,Rolling Kayaku Boshi,Rolling Gunpowder Star
+130,930,Tamago Boshi,Egg Star
+131,930,Kemuri Boshi,Smoke Star
+132,930,Kaen Boshi,Flame Star
+133,930,Shinsen Tamago Boshi,Fresh Egg Star
+134,930,Tokusei Tabasco Boshi,Deluxe Tabasco Star
+135,930,Akahebi Boshi,Red Snake Star
+136,930,Shuriken Ryusei-gun,Shuriken Meteoric Swarm
+137,930,Sakuretsu Saboten Boshi,Exploding Cactus Star
+138,930,Ketchup Boshi,Ketchup Star
+139,930,Usopp Wagomu,Usopp Rubber Band
+140,930,Usopp Spell,Usopp Spell
+141,930,Hissatsu Ganmen Bikkuri Bako,Sure-Kill Face Jack-in-the-Box
+142,930,Usopp Hammer,Usopp Hammer
+143,930,Usopp Pound,Usopp Pulverization
+144,930,Hissatsu Uso-Cho Hammer Suisei,Sure-Kill UsoCho Hammer Comet
+145,930,Usopp Golden Pound,Usopp Golden Pound
+146,930,Uso 100 Ton Hammer,Uso 100 Ton Hammer
+147,930,Tone Dial,Tone Dial
+148,930,Breath Dial,Breath Dial
+149,930,Impact Dial,Impact Dial
+150,930,Flash Dial,Flash Dial
+151,930,Makibishi Jigoku,Caltrop Hell
+152,930,Usopp Noise,Usopp Noise
+153,930,Usopp AAaaaAAAaaaAA!,Usopp AAaaaAAAaaaAA!
+154,930,Octopakutsu,Octopushoes
+155,930,Usopp Hopping,Usopp Hopping
+156,930,Zombie Shoten Salt Ball,Zombie-Purifying Salt Ball
+157,930,Kaen Dama,Blaze Ball
+158,930,Kokkara Koko Made Hairu na no Jutsu,No Enter From Here to Here Technique
+159,930,Tetsujin Suisei,Iron Man Comet
+160,930,Tokudai Reitoko no Cho Tei'on Reiki Ho,Extra Large Freezer's Super Sub-Zero Freezing Cannon
+161,930,Hokaku Boshi,Capture Star
+162,930,Hi no Tori Boshi,Fire Bird Star
+163,930,Himawari Boshi,Sunflower Star
+164,930,Cho Kemuri Boshi,Super Smoke Star
+165,930,Rokuren Mamushi Boshi,Six Chamber Pit-Viper Star
+166,930,En Boshi,Salt Star
+167,930,Ageha Ryusei,Swallowtail Butterfly Meteor
+168,930,Kamakiri Ryūsei,Praying Mantis Meteor
+169,930,Atlas Suisei,Atlas Comet
+170,930,Torimochi Boshi,Sticky Star
+171,930,Gokiburi Boshi,Cockroach Star
+172,930,Tokuyo Abura Boshi,Special Oil Star
+173,930,Super Size Hi no Tori Boshi,Super Size Fire Bird Star
+174,930,Kaenbin,"Flame Bottle,Gas,Hedge,Arrow Piece,and Blazing Meteor"
+175,930,Renpatsu Kaen Boshi,Multiple Flame Stars
+176,930,Tenryu Boshi,Heavenly Dragon Star
+177,930,Grow Up,Grow Up
+178,930,Totsugeki Ryuseigun,Charging Meteor Shower
+179,930,Super Grow Up,Super Grow Up
+180,930,Bagworm,Bagworm Star
+181,930,Midori Boshi: Devil,Green Star: Devil
+182,930,Midori Boshi: Sargasso,Green Star: Sargasso
+183,930,Midori Boshi: Rafflesia,Green Star: Rafflesia
+184,930,Midori Boshi: Take Jave-rin,Green Star: Bamboo Javelin-Grove
+185,930,Midori Boshi: Dokuro Bakuhatsu So,Green Star: Green Star: Skull Exploding Grass
+186,930,Midori Boshi: Humandrake,Green Star: Humandrake
+187,930,Midori Boshi: Trampolia ,Green Star: Trampolia
+188,930,Midori Boshi: Impact Wolf,Green Star: Impact Wolf Grass
+189,930,Midori Boshi: Boaty Banana,Green Star: Boaty Banana
+190,930,Midori Boshi: Uchiwa So,Green Star: Fan Grass
+191,930,Midori Boshi: Platanus Shuriken,Green Star: Platanus Shuriken
+192,930,Bakusui Boshi,Burst Sleep Star
+193,930,Fire Bird Star,Fire Bird Star
+194,930,Kairoseki Handcuffs,Kairoseki Handcuffs
+195,766,Enbima Yonezu Oni Giri,Charm Demon Sleepless Night Demon Slash
+196,766,Toro Nagashi,Sword Wolf Floating
+197,766,Tatsu Maki,Dragon Twister
+198,766,Ushi Bari,Bull Horns
+199,766,Gazami Dori,Crab Seize
+200,766,Hyakuhachi Pound Ho,Phoenix of the 108 Earthly Desires
+201,766,Karasuma Gari,Demon Crow Hunt
+202,766,Gyuki: Yuzume,Cattle Demon: Brave Hoof
+203,766,Ichi Gorilla,One Gorilla
+204,766,Ni Gorilla,Two Gorillas
+205,766,Nigori-Zake,Two-Arm Strength Slash
+206,766,Hyo Kin Dama,Leopard Koto Ball
+207,766,Daibutsu Giri,Great Buddha Cut
+208,766,Yasha Garasu,Yaksa Crow
+209,766,Santoryu Ogi: Rokudo no Tsuji,Three Swords Style Secret Technique: Crossing of Six Paths
+210,766,Kokujō: Ō Tatsumaki,Kalasutra: Great Dragon Twister
+211,766,Rengoku Oni Giri,Purgatory Demon Slash
+212,766,Ul-Tora Gari,Extreme Tiger Hunt
+213,766,Senhachiju Pound Ho,1080 Pound Cannon
+214,766,Santoryu Ogi: Ichidai Sanzen Daisen Sekai,Three Swords Style Secret Technique: Great Three Thousand Great Thousand Worlds
+215,766,Taka Nami,Hawk Wave
+216,766,Sai Kuru,Rolling Rhino
+217,766,Nitoryu Iai: Rashomon,Two Sword Style Draw and Resheath Technique: Castle Gate
+218,766,Nanajuni Pound Ho,Phoenix of the 72 Earthly Desires
+219,766,Nigiri,Double Slash
+220,766,Toro,Climbing a Tower
+221,766,Otoro,Reply Climbing a Tower
+222,766,Hirameki,Flash
+223,766,Samon,Sand Drawing
+224,766,Maguma,Demon Bear
+225,766,Dai Gekken,Great Fencing Sword
+226,766,Ittoryu Iai: Shishi Sonson,One Sword Style Draw and Resheath Technique: Lion's Song
+227,766,Sanjuroku Pound Ho,Phoenix of the 36 Earthly Desires
+228,766,Hiryu: Kaen,Flying Dragon: Blaze
+229,766,Yakkodori,Disaster Harbor Bird
+230,766,Sanbyakurokuju Pound Ho,360 Pound Cannon
+231,766,Ittoryu Iai: Shi Shishi Sonson,One Sword Style Draw and Resheath Technique: Lion's Song of Death
+232,766,Daishinkan,Great Dragon Shock
+233,766,Baki,Horse Demon
+234,766,Nitoryu,Two Sword Style
+235,766,Ittoryu,One Sword Style
+236,766,Mutoryu,No Sword Style
+237,766,Kyutoryu,Nine Sword Style
+238,766,Kiki Kyutoryu: Ashura,Demon Spirit Nine Sword Style: Asura
+239,766,Ashura: Ichibugin,Asura: One Mist Silver
+240,766,Ashura: Makyusen,Asura: Demon Nine Flashes
+241,766,Ashura: Ugui,Asura: Drilling Force
+242,766,Gomu Gomu no Tatsu Épaule Muchi Maki Shoot,Rubber Rubber Dragon Shoulder Whip Twister Shoot
+243,601,Gomu Gomu no Tatsu Épaule Muchi Maki Shoot,Rubber Rubber Dragon Shoulder Whip Twister Shoot
+244,790,Gomu Gomu no Tatsu Épaule Muchi Maki Shoot,Rubber Rubber Dragon Shoulder Whip Twister Shoot
+245,766,Armée de L'air Power Shoot,Air Force Power Shoot
+246,790,Armée de L'air Power Shoot,Air Force Power Shoot
+247,766,Gomu Gomu no Sanbyaku Pound Cannon,Rubber Rubber 300 Pound Cannon
+248,601,Gomu Gomu no Sanbyaku Pound Cannon,Rubber Rubber 300 Pound Cannon
+249,790,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
+250,766,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
+251,601,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
+252,650,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
+253,271,"600,000,000 Beli Jackpot","600,000,000 Beli Jackpot"
+254,271,Knee Crash,Knee Crash
+255,766,Knee Crash,Knee Crash
+256,766,Santoryu Gomu Gomu no Diable Mouton Jet Roppyaku Pound Cannon,Three-Sword Style Rubber Rubber Devil's Mutton Jet 600 Pound Cannon
+257,601,Santoryu Gomu Gomu no Diable Mouton Jet Roppyaku Pound Cannon,Three-Sword Style Rubber Rubber Devil's Mutton Jet 600 Pound Cannon
+258,790,Santoryu Gomu Gomu no Diable Mouton Jet Roppyaku Pound Cannon,Three-Sword Style Rubber Rubber Devil's Mutton Jet 600 Pound Cannon
+259,790,Collier,Neck
+260,790,Collier Shoot,Neck Shoot
+261,790,Épaule,Shoulder
+262,790,Épaule Shoot,Shoulder Shoot
+263,790,Côtelette,Rib
+264,790,Selle,Lower Back
+265,790,Poitrine,Breast/Chest
+266,790,Poitrine Shoot,Breast/Chest Shoot
+267,790,Gigot,Legs
+268,790,Mouton Shot,Sheep Shot
+269,790,Reception,Reception
+270,790,Anti-Manner Kick Course,Behavior Antithesis Kick Course
+271,790,Basse Côte,Shoulder Roast
+272,790,Longe,Loin
+273,790,Tendron,Collar
+274,790,Flanchet,Stomach
+275,790,Flanchet Shoot,Stomach Shoot
+276,790,Quasi,Rump
+277,790,Queue,Tail
+278,790,Cuisseau,Thigh
+279,790,Cuisseau Shoot,Thigh Shoot
+280,790,Jarret,Shin
+281,790,Veau Shot,Veal Shot
+282,790,Concassé,Crush
+283,790,Troisième Hachée,Third-Rate Mincemeat
+284,790,Bouquetière Shot,Mixed Vegetables Shot
+285,790,Slice Shoot,Sliced Shoot
+286,790,Brochette,Skewer
+287,790,Collier Frit,Fried Neck
+288,790,Frit Assorti,Fried Assortment
+289,790,Escalope,Thin Slices
+290,790,Œil,Eye
+291,790,Nez,Nose
+292,790,Joue,Cheek
+293,790,Joue Shoot,Cheek Shoot
+294,790,Bouche,Mouth
+295,790,Dents,Teeth
+296,790,Menton,Chin
+297,790,Parage Shot,Cosmetic Surgery Shot
+298,790,Santen Découpage,Three Point Cut
+299,790,Shishinabe Shoot,Boar Hot Pot Shoot
+300,790,Deuxième Hachée,Second-Rate Mincemeat
+301,790,Extra Hachée,Highest-Rate Mincemeat
+302,790,Jenga Ho,Jenga Cannon
+303,790,Blue Walk,Sea Walk
+304,790,Sky Walk,Sky Walk
+305,790,Hell Memories,Hell Memories
+306,790,Diable Jambe,Devil's Leg
+307,790,Premier Hachis,First-Rate Mincemeat
+308,790,Flambage Shot,Flambé Shot
+309,790,Extra Hachis,Highest-Rate Mincemeat
+310,790,Bien Cuit,Well Cooked: Grill Shot
+311,790,Poêle à Frire: Spectre,Frying Pan: Spectrum
+312,790,Collier Strike,Neck Strike
+313,790,Flanchet Strike,Stomach Strike
+314,790,Armée de L'Air Gomu Shot,Air Force Rubber Shoot
+315,601,Armée de L'Air Gomu Shot,Air Force Rubber Shoot
+316,790,Hell Memories Gomu Shot,Hell Memories Gomu Shot
+317,601,Hell Memories Gomu Shot,Hell Memories Gomu Shot
+318,790,Armée de L'Air Kokutei Roseo Shoot,Air Force Carving Hoof Cherry Blossom Shoot
+319,912,Armée de L'Air Kokutei Roseo Shoot,Air Force Carving Hoof Cherry Blossom Shoot
+320,154,Mizudeppo,Water Gun
+321,154,Mizu Taiho,Water Cannon
+322,154,Hyappatsu Mizudeppo,Hundred-Shot Water Gun
+323,345,Takoashi Kiken,Octopus Foot Miracle Swords
+324,345,Takotsubo no Kamae,Octopus Pot Stance
+325,345,Shin Shun - Tako Age - Taikai,New Spring - Open the Octopus - Break It Apart
+326,345,Rokutoryu Ogi: Rokuto no Waltz,Six-Sword Style Ultimate Technique: Six-Sword Waltz
+327,345,Shikai Zero: Takohachi Black,Zero Visibility: Octopus Hachi Black
+328,345,Takohachi Black on the Rock,Octopus Hachi Black on the Rock
+329,345,Tako San Ren Shin Ken Shira Ha Dori,Octopus Concentrated Three Timed Blade Interception
+330,345,Takohachi Number Nine,Octopus Hachi Suckers
+331,345,Takoyaki Punch,Flaming Octopus Punch
+332,345,Rokutoryu,Six Swords Style
+333,485,Fishman Karate: Hyakumaigawara Seiken,Hundred Tile True Punch
+334,485,Fishman Karate: Wanto Giri,Arm Blade Slash
+335,485,Fishman Karate: Itomaki Kumite,Devilfish Sparring
+336,485,Fishman Karate: Kaisoku: Harakudashigeri,Sea-Speed Stomach Drop Kick
+337,485,Fishman Karate: Ka Ka Kakato Otoshi,Fire Flower Heel Drop
+338,485,Fishman Karate: Kachiage Haisoku,Rising Thrust-Kick
+339,485,Fishman Karate: Jodan Bakusho,High-Rank Exploding Palm
+340,485,Fishman Karate: Appakushi Chokka Koro,Death by Pressure Plunge
+341,485,Fishman Karate: Senmaigawara Seiken,Thousand Tile True Punch
 342,32,Yabusame,Arrow Military Shark
 343,32,Shark on Darts,Shark on Darts
 344,32,Tooth Gum,Tooth Gum
@@ -346,120 +346,120 @@
 346,32,Kiribachi,Kiribachi
 347,32,Arlong's Teeth,Arlong's Teeth
 348,32,Arlong's Nose,Arlong's Nose
-349,599,Arlong's Teeth,Arlong's Teeth
+349,601,Arlong's Teeth,Arlong's Teeth
 350,19,Sube Sube Spur,Smooth Smooth Spur
-351,845,Nanashaku Jitte,Nanashaku Jitte
-352,845,Billower Bike,Billower Bike
-353,845,White Out,White Out
-354,845,White Blow,White Blow
-355,845,White Snake,White Snake
-356,845,White Spark,White Spark
-357,845,White Vine,White Vine
-358,845,White Launcher,White Launcher
-359,599,Snowman Punch,Snowman Punch
-360,379,Igarappa,Igarappa
-361,379,Igarappappa,Igarappappa
-362,573,Kairiki Meriken,Superhuman Knuckle-duster
-363,623,Nekketsu Nine Konjo Bat,Hot Blooded Bat of Guts
-364,623,Kattobase Shikomi Bat,Home-Run Hide-A-Bat
-365,638,Kujakki Slasher,Peacock Slasher
-366,638,Kujakki String Slasher,Peacock String Slasher
-367,638,Kujakki String Slasher Runback,Peacock String Slasher Runback
-368,638,Miwaku no Memai Dance,Captivating Dizziness Dance
-369,638,Miwaku no Kosui Dance,Captivating Perfume Dance
-370,620,Nose Fancy Cannon,Nose Fancy Cannon
-371,620,Nose Fancy Double Cannon,Nose Fancy Double Cannon
-372,620,Kick Bomb,Kick Bomb
-373,620,Breeze Breath Bomb,Breeze Breath Bomb
-374,620,Zenshin Kibaku,Full Body Exploding
-375,579,"10,000 Kilo Press","10,000 Kilo Press"
-376,579,"Hissatsu: 10,000 Kilo Guillotine","Sure-Kill: 10,000 Kilo Guillotine"
-377,579,Crescendo Stone,Crescendo Stone
-378,282,Candle Lock,Candle Lock
-379,282,Giant Candle Service Set,Giant Candle Service Set
-380,282,Candle Jacket,Candle Jacket
-381,282,Doru Doru Arts: Ken,Wax Wax Sculpture Sword
-382,282,Doru Doru Arts: Mori,Wax Wax Sculpture Harpoon
-383,282,Candle Wall,Candle Wall
-384,282,Candle Champion,Candle Champion
-385,282,Champ Fight: Oraga Hatake,Champ Fight: Plowing the Field
-386,282,Doru Doru no Yakata,Wax Wax Mansion
-387,282,Doru Doru Ball,Wax Wax Ball
-388,282,Candle House,Candle House
-389,282,Doru Doru Kaijo,Wax Wax Removal
-390,282,Tokudai Service: Candle Wall,Oversized Gift: Candle Wall
-391,599,Gomu Gomu no Tonkachi,Rubber Rubber Hammer
-392,599,Gomu Gomu no Tonkachi Rifle,Rubber Rubber Hammer Spinning Bullet
-393,599,Gomu Gomu no Champion Rifle,Rubber Rubber Champion Spinning Bullet
-394,599,Gomu Gomu no Champion Stamp,Rubber Rubber Champion Stamp
-395,599,Gomu Gomu no Champion Bazooka,Rubber Rubber Champion Bazooka
-396,599,Gomu Gomu no Champion Gatling,Rubber Rubber Champion Gatling
-397,571,Colors Trap,Colors Trap
-398,571,Uragiri no Kuro,Black - Color of Betrayal
-399,571,Warai no Kiiro,Yellow - Color of Laughter
-400,571,Togyu no Aka,Red - Color of Bullfighting
-401,571,Kanashimi no Ao,Blue - Color of Sadness
-402,571,Nagomi no Midori,Green - Color of Soothing
-403,571,Tomodachi no Kimidori,Yellow-Green - Color of Friendship
-404,571,Yume no Nijiiro,Rainbow - Color of Dreams
-405,225,Hakoku,Warrior Nation
+351,848,Nanashaku Jitte,Nanashaku Jitte
+352,848,Billower Bike,Billower Bike
+353,848,White Out,White Out
+354,848,White Blow,White Blow
+355,848,White Snake,White Snake
+356,848,White Spark,White Spark
+357,848,White Vine,White Vine
+358,848,White Launcher,White Launcher
+359,601,Snowman Punch,Snowman Punch
+360,380,Igarappa,Igarappa
+361,380,Igarappappa,Igarappappa
+362,575,Kairiki Meriken,Superhuman Knuckle-duster
+363,625,Nekketsu Nine Konjo Bat,Hot Blooded Bat of Guts
+364,625,Kattobase Shikomi Bat,Home-Run Hide-A-Bat
+365,640,Kujakki Slasher,Peacock Slasher
+366,640,Kujakki String Slasher,Peacock String Slasher
+367,640,Kujakki String Slasher Runback,Peacock String Slasher Runback
+368,640,Miwaku no Memai Dance,Captivating Dizziness Dance
+369,640,Miwaku no Kosui Dance,Captivating Perfume Dance
+370,622,Nose Fancy Cannon,Nose Fancy Cannon
+371,622,Nose Fancy Double Cannon,Nose Fancy Double Cannon
+372,622,Kick Bomb,Kick Bomb
+373,622,Breeze Breath Bomb,Breeze Breath Bomb
+374,622,Zenshin Kibaku,Full Body Exploding
+375,581,"10,000 Kilo Press","10,000 Kilo Press"
+376,581,"Hissatsu: 10,000 Kilo Guillotine","Sure-Kill: 10,000 Kilo Guillotine"
+377,581,Crescendo Stone,Crescendo Stone
+378,283,Candle Lock,Candle Lock
+379,283,Giant Candle Service Set,Giant Candle Service Set
+380,283,Candle Jacket,Candle Jacket
+381,283,Doru Doru Arts: Ken,Wax Wax Sculpture Sword
+382,283,Doru Doru Arts: Mori,Wax Wax Sculpture Harpoon
+383,283,Candle Wall,Candle Wall
+384,283,Candle Champion,Candle Champion
+385,283,Champ Fight: Oraga Hatake,Champ Fight: Plowing the Field
+386,283,Doru Doru no Yakata,Wax Wax Mansion
+387,283,Doru Doru Ball,Wax Wax Ball
+388,283,Candle House,Candle House
+389,283,Doru Doru Kaijo,Wax Wax Removal
+390,283,Tokudai Service: Candle Wall,Oversized Gift: Candle Wall
+391,601,Gomu Gomu no Tonkachi,Rubber Rubber Hammer
+392,601,Gomu Gomu no Tonkachi Rifle,Rubber Rubber Hammer Spinning Bullet
+393,601,Gomu Gomu no Champion Rifle,Rubber Rubber Champion Spinning Bullet
+394,601,Gomu Gomu no Champion Stamp,Rubber Rubber Champion Stamp
+395,601,Gomu Gomu no Champion Bazooka,Rubber Rubber Champion Bazooka
+396,601,Gomu Gomu no Champion Gatling,Rubber Rubber Champion Gatling
+397,573,Colors Trap,Colors Trap
+398,573,Uragiri no Kuro,Black - Color of Betrayal
+399,573,Warai no Kiiro,Yellow - Color of Laughter
+400,573,Togyu no Aka,Red - Color of Bullfighting
+401,573,Kanashimi no Ao,Blue - Color of Sadness
+402,573,Nagomi no Midori,Green - Color of Soothing
+403,573,Tomodachi no Kimidori,Yellow-Green - Color of Friendship
+404,573,Yume no Nijiiro,Rainbow - Color of Dreams
+405,226,Hakoku,Warrior Nation
 406,110,Hakoku,Warrior Nation
-407,195,Dalton's Spade,Dalton's Spade
-408,195,Fiddle Banff,Fiddle Assault
-409,150,Checkmate,Checkmate
-410,750,Serious Mode,Serious Mode
-411,482,Eleki-Marimo,Electric Ball Seaweed
-412,482,Bikkuri Marimo,Surprise Ball Seaweed
-413,947,Yukigesho,Snow-Covered
-414,947,Baku Baku Shock,Chomp Chomp Food
-415,947,Bero Cannon,Tongue Cannon
-416,947,Arm Cannon,Arm Cannon
-417,947,Ningen Heiki,Human Weapon
-418,947,Wapol House,Wapol House
-419,947,Baku Baku Factory,Chomp Chomp Factory
-420,947,Slim-up Wapol,Slim-up Wapol
-421,947,Musshuru Wapol Cannon,Musshuru Wapol Cannon (Movie-Only)
-422,909,Walk Point,Walking Power Strengthening
-423,909,Brain Point,Intellect Strengthening
-424,909,Scope,Diagnosis
-425,909,Heavy Point,Weight Strengthening
-426,909,Heavy Gong,Weight Gong
-427,909,Robi-Cho Suplex,Robi-Cho Suplex
-428,909,Super Frapper Gong,Super Frapper Gong
-429,909,Rumble,Rumble
-430,909,Jumping Point,Flight Power Strengthening
-431,909,Arm Point,Muscle Strengthening
-432,909,Kokutei Roseo,Carving Hoof Cherry Blossom
-433,909,Kokutei Cross,Carving Hoof Cross
-434,909,Kokutei Roseo Metel,Carving Hoof Cherry Blossom Blizzard
-435,909,Kokutei Diamond,Carving Hoof Diamond
-436,909,Guard Point,Fur Strengthening
-437,909,Chopper Sensha,Chopper Tank
-438,909,Kung Fu Point,Flexibility Power Strengthening
-439,909,Horn Point,Horn Strengthening
-440,909,Hissatsu Uso-Cho Hammer Suisei,Sure-Kill Uso-Cho Hammer Comet
-441,909,Roseo Colonnade,Cherry Blossom Colonnade
-442,909,Kakuho: Elf,Horn Cannon: Eleven
-443,909,Monster Point,Monster Point
-444,909,Kokutei: Palme,Carving Hoof: Palm
-445,947,Chessmarimo,Chessmarimo
-446,152,Yukidoke no Ya Marimo,Snow-Thawing Arrow Marimo
-447,152,Dobikkuri Marimo,"Quatro Hammer, Super Surprise Marimo, Four Hammers"
-448,152,Dobikkuri Marimo,"Quatro Axe, Super Surprise Marimo, Four Axes"
-449,152,Yukiwariso,Snow-Cutting Grass
-450,152,Happo Yukidaore,Snow Falling From All Directions
-451,710,Kagero,Heat Haze
-452,710,Hiken,Fire Fist
-453,710,Higan,Fire Gun
-454,710,Enkai,Flame Commandment
-455,710,Hibashira,Fire Pillar
-456,710,Hotarubi,Firefly Light
-457,710,Hidaruma,Fiery Doll
-458,710,Shinka: Shiranui,Sacred Flame: Sea Fire
-459,710,Jujika,Cross-fire
-460,710,Dai Enkai: Entei,Great Flame Commandment: Flame Emperor
-461,710,Enjomo,Flaming Net
-462,710,Kyokaen,Mirror Flame
+407,196,Dalton's Spade,Dalton's Spade
+408,196,Fiddle Banff,Fiddle Assault
+409,151,Checkmate,Checkmate
+410,753,Serious Mode,Serious Mode
+411,484,Eleki-Marimo,Electric Ball Seaweed
+412,484,Bikkuri Marimo,Surprise Ball Seaweed
+413,950,Yukigesho,Snow-Covered
+414,950,Baku Baku Shock,Chomp Chomp Food
+415,950,Bero Cannon,Tongue Cannon
+416,950,Arm Cannon,Arm Cannon
+417,950,Ningen Heiki,Human Weapon
+418,950,Wapol House,Wapol House
+419,950,Baku Baku Factory,Chomp Chomp Factory
+420,950,Slim-up Wapol,Slim-up Wapol
+421,950,Musshuru Wapol Cannon,Musshuru Wapol Cannon (Movie-Only)
+422,912,Walk Point,Walking Power Strengthening
+423,912,Brain Point,Intellect Strengthening
+424,912,Scope,Diagnosis
+425,912,Heavy Point,Weight Strengthening
+426,912,Heavy Gong,Weight Gong
+427,912,Robi-Cho Suplex,Robi-Cho Suplex
+428,912,Super Frapper Gong,Super Frapper Gong
+429,912,Rumble,Rumble
+430,912,Jumping Point,Flight Power Strengthening
+431,912,Arm Point,Muscle Strengthening
+432,912,Kokutei Roseo,Carving Hoof Cherry Blossom
+433,912,Kokutei Cross,Carving Hoof Cross
+434,912,Kokutei Roseo Metel,Carving Hoof Cherry Blossom Blizzard
+435,912,Kokutei Diamond,Carving Hoof Diamond
+436,912,Guard Point,Fur Strengthening
+437,912,Chopper Sensha,Chopper Tank
+438,912,Kung Fu Point,Flexibility Power Strengthening
+439,912,Horn Point,Horn Strengthening
+440,912,Hissatsu Uso-Cho Hammer Suisei,Sure-Kill Uso-Cho Hammer Comet
+441,912,Roseo Colonnade,Cherry Blossom Colonnade
+442,912,Kakuho: Elf,Horn Cannon: Eleven
+443,912,Monster Point,Monster Point
+444,912,Kokutei: Palme,Carving Hoof: Palm
+445,950,Chessmarimo,Chessmarimo
+446,153,Yukidoke no Ya Marimo,Snow-Thawing Arrow Marimo
+447,153,Dobikkuri Marimo,"Quatro Hammer, Super Surprise Marimo, Four Hammers"
+448,153,Dobikkuri Marimo,"Quatro Axe, Super Surprise Marimo, Four Axes"
+449,153,Yukiwariso,Snow-Cutting Grass
+450,153,Happo Yukidaore,Snow Falling From All Directions
+451,712,Kagero,Heat Haze
+452,712,Hiken,Fire Fist
+453,712,Higan,Fire Gun
+454,712,Enkai,Flame Commandment
+455,712,Hibashira,Fire Pillar
+456,712,Hotarubi,Firefly Light
+457,712,Hidaruma,Fiery Doll
+458,712,Shinka: Shiranui,Sacred Flame: Sea Fire
+459,712,Jujika,Cross-fire
+460,712,Dai Enkai: Entei,Great Flame Commandment: Flame Emperor
+461,712,Enjomo,Flaming Net
+462,712,Kyokaen,Mirror Flame
 463,100,Mane Mane Memory,Copy Copy Memory
 464,100,Mane Mane Montage,Copy Copy Montage
 465,100,Hakucho Arabesque,Swan Arabesque
@@ -477,219 +477,219 @@
 477,100,Bombardier Arabesque,Bombing Swan Arabesque
 478,100,Ohikae Na Fouetté,Oh! Pardon My Whiplashing Feet
 479,100,Ano Sabaku no Kuni no Memoir,I Reminisce of a Desert Country
-480,184,Desert Spada,Treasured Sword of Desert
-481,184,Desert Girasole,Desert Sunflower
-482,184,Barján,Crescent-Shaped Dune
-483,184,Sables,Sandstorm
-484,184,Ground Secco,Mud Crack
-485,184,Ground Death,Cycle of Erosion
-486,184,Desert Encierro,Desert Prison
-487,184,Sables: Pesado,Sandstorm: Heavy
-488,184,Desert la Spada,Adamant Treasure Sword of Desert
-489,184,Desert Grande Espada,Large Sword of Desert
-490,694,Tobizume,Flying Talon
+480,185,Desert Spada,Treasured Sword of Desert
+481,185,Desert Girasole,Desert Sunflower
+482,185,Barján,Crescent-Shaped Dune
+483,185,Sables,Sandstorm
+484,185,Ground Secco,Mud Crack
+485,185,Ground Death,Cycle of Erosion
+486,185,Desert Encierro,Desert Prison
+487,185,Sables: Pesado,Sandstorm: Heavy
+488,185,Desert la Spada,Adamant Treasure Sword of Desert
+489,185,Desert Grande Espada,Large Sword of Desert
+490,696,Tobizume,Flying Talon
 491,143,Narikiba,Howling Fang
-492,648,Un Fleur,One Flower
-493,648,Dos Fleur,Two Profusely Blooming Flowers
-494,648,Grab,Grab
-495,648,Clutch,Clutch
-496,648,Tres Fleur,Three Profusely Blooming Flowers
-497,648,Cinco Fleur,Five Profusely Blooming Flowers
-498,648,Seis Fleur,Six Profusely Blooming Flowers
-499,648,Twist,Twist
-500,648,Slap,Slap
-501,648,Ocho Fleur,Eight Profusely Blooming Flowers
-502,648,Flip,Flip
-503,648,Nueve Fleur,Nine Profusely Blooming Flowers
-504,648,Once Fleur,Eleven Profusely Blooming Flowers
-505,648,Slam,Slam
-506,648,Doce Fleur,Twelve Profusely Blooming Flowers
-507,648,Dieciséis Fleur,Sixteen Profusely Blooming Flowers
-508,648,Veinte Fleur,Twenty Profusely Blooming Flowers
-509,648,Calendula,Marigold
-510,648,Treinta Fleur,Thirty Profusely Blooming Flowers
-511,648,Strangle,Strangle
-512,648,Hang,Hang
-513,648,Ochenta Fleur,Eighty Profusely Blooming Flowers
-514,648,Cuatro Manos,Four Trees
-515,648,Hold,Hold
-516,648,Shock,Shock
-517,648,Cien Fleur,Many Flowers Blooming in Profusion
-518,648,Delphinium,Large Rocket Larkspur
-519,648,Wing,Wing
-520,648,Spider Net,Spider Net
-521,648,Big Tree,Big Tree
-522,648,Defense,Defense
-523,648,Slalom Vine,Turning Vine
-524,648,Dos Manos,Two Trees
-525,648,Gran Fleur,Great Flower
-526,648,Ojos Fleur,Profusely Blooming Rockfish
-527,648,Pierna Fleur,Profusely Blooming Legs
-528,648,Robi-Cho Suplex,Robi-Cho Suplex
-529,648,Oreja Fleur,Ear Flower
-530,648,Rindo,Gentian
-531,648,Mil Fleur,Thousand Flower
-532,648,Gigantesco Mano,Gigantic Hand
-533,648,Stomp,Stomp
-534,648,Spank,Spank
-535,648,Campo de Flores,Flower Garden
-536,648,Kochoran,Moth Orchid
-537,648,Hanagasa,Flower Umbrella
-538,648,Cuarenta Fleur,Forty Profusely Blooming Flowers
-539,648,Cuatro Mano,Four Trees
-540,648,Diez Fleur,Ten Profusely Blooming Flowers
-541,648,Cinco Mano,Five Trees
-542,648,Cuerpo Fleur,Profusely Blooming Body
-543,648,Doble Clutch,Double Clutch
-544,184,Hook,Hook
-545,619,Yonhyappon Punk Knock,Four Hundred Punk Knock
-546,619,Mogurazuka Yonban Kousaten,Molehill Intersection Number 4
-547,572,Mogura Tonpo: Mogugyo,Mole Digging Technique: Mole-Fish
-548,572,Mogura Banana,Mole Palm Shoot
-549,572,Mogurazuka Highway,Molehill Highway
-550,572,Mogu Mogu Impact,Mole Mole Honorable Death
-551,568,Double Stinger,Double Stinger
-552,568,Stinger Finger,Stinger Finger
-553,568,Stinger Hedgehog,Stinger Hedgehog
-554,568,Sewing Stinger,Sewing Stinger
-555,568,Stinger Step,Stinger Step
-556,568,Sea Urchin Stinger,Sea Urchin Stinger
-557,568,Toge Toge Doping,Spike Spike Acupuncture
-558,568,Stinger Flail,Stinger Flail
-559,633,Heat Ball,Heat Bubble
-560,633,Cool Ball,Cool Bubble
-561,633,Thunder Ball,Electric Bubble
-562,633,Fine Tempo,Fine Tempo
-563,633,Cloudy Tempo,Cloudy Tempo
-564,633,Thunder Tempo,Thunder Tempo
-565,633,Rain Tempo,Rain Tempo
-566,633,Sprinkler,Sprinkler
-567,633,Cyclone Tempo,Cyclone Tempo
-568,633,Mirage Tempo,Mirage Tempo
-569,633,Thunderbolt Tempo,Thunderbolt Tempo
-570,633,Tornado Tempo,Tornado Tempo
-571,633,Fog Tempo,Fog Tempo
-572,633,Thunderstorm Tempo,Thunderstorm Tempo
-573,633,Thunder Charge,Thunder Charge
-574,633,Swing Arm,Swing Arm
-575,633,Cool Charge,Cool Charge
-576,633,Mirage Tempo: Fata Morgana,Mirage Tempo: Fata Morgana
-577,633,Dark Cloud Tempo,Dark Cloud Tempo
-578,633,Thunder Lance Tempo,Thunder Lance Tempo
-579,633,Cyclone Burst,Cyclone Burst
-580,633,Gust Sword,Gust Sword
-581,633,Black Ball: Raiun Rod,Black Ball: Thundercloud Rod
-582,633,Thunder Trap,Thundercloud Trap
-583,633,Heat Egg,Heat Egg
-584,633,Milky Ball,Milky Ball
-585,633,Weather Egg,Weather Egg
-586,633,Thunder Breed Tempo,Thunder Breed Tempo
-587,633,Yukigumo,Snow Clouds
-588,633,Shower Tempo,Shower Tempo
-589,633,Milky Road,Milky Road
-590,633,Shiawase Punch,Happiness Punch
-591,198,Spider,Cutting Man
-592,198,Spar Claw,Holding Decapitation
-593,198,Sparkling Daisy,Foaming Daisy Decapitation
-594,198,Atomic Spar,Particle Decapitation
-595,198,Spiral Hollow,Helix Uproot Decapitation
-596,198,Spar Break,Incoherent Decapitation
-597,198,Atomic Spurt,Particle Decapitation Speed Blade
-598,599,Mizu Luffy,Water Luffy
-599,599,Mizu Mizu no Pistol,Water Water Pistol
-600,569,Lady Smash,Lady Smash
-601,622,Lady Smash,Lady Smash
-602,357,Awase Baori,Lined Kimono Feather Cage
-603,538,Saru Naguri,Monkey Punch
-604,831,Search Sonar,Search Sonar
-605,831,Havoc Sonar,Havoc Sonar
-606,792,Big Chop,Big Chop
+492,650,Un Fleur,One Flower
+493,650,Dos Fleur,Two Profusely Blooming Flowers
+494,650,Grab,Grab
+495,650,Clutch,Clutch
+496,650,Tres Fleur,Three Profusely Blooming Flowers
+497,650,Cinco Fleur,Five Profusely Blooming Flowers
+498,650,Seis Fleur,Six Profusely Blooming Flowers
+499,650,Twist,Twist
+500,650,Slap,Slap
+501,650,Ocho Fleur,Eight Profusely Blooming Flowers
+502,650,Flip,Flip
+503,650,Nueve Fleur,Nine Profusely Blooming Flowers
+504,650,Once Fleur,Eleven Profusely Blooming Flowers
+505,650,Slam,Slam
+506,650,Doce Fleur,Twelve Profusely Blooming Flowers
+507,650,Dieciséis Fleur,Sixteen Profusely Blooming Flowers
+508,650,Veinte Fleur,Twenty Profusely Blooming Flowers
+509,650,Calendula,Marigold
+510,650,Treinta Fleur,Thirty Profusely Blooming Flowers
+511,650,Strangle,Strangle
+512,650,Hang,Hang
+513,650,Ochenta Fleur,Eighty Profusely Blooming Flowers
+514,650,Cuatro Manos,Four Trees
+515,650,Hold,Hold
+516,650,Shock,Shock
+517,650,Cien Fleur,Many Flowers Blooming in Profusion
+518,650,Delphinium,Large Rocket Larkspur
+519,650,Wing,Wing
+520,650,Spider Net,Spider Net
+521,650,Big Tree,Big Tree
+522,650,Defense,Defense
+523,650,Slalom Vine,Turning Vine
+524,650,Dos Manos,Two Trees
+525,650,Gran Fleur,Great Flower
+526,650,Ojos Fleur,Profusely Blooming Rockfish
+527,650,Pierna Fleur,Profusely Blooming Legs
+528,650,Robi-Cho Suplex,Robi-Cho Suplex
+529,650,Oreja Fleur,Ear Flower
+530,650,Rindo,Gentian
+531,650,Mil Fleur,Thousand Flower
+532,650,Gigantesco Mano,Gigantic Hand
+533,650,Stomp,Stomp
+534,650,Spank,Spank
+535,650,Campo de Flores,Flower Garden
+536,650,Kochoran,Moth Orchid
+537,650,Hanagasa,Flower Umbrella
+538,650,Cuarenta Fleur,Forty Profusely Blooming Flowers
+539,650,Cuatro Mano,Four Trees
+540,650,Diez Fleur,Ten Profusely Blooming Flowers
+541,650,Cinco Mano,Five Trees
+542,650,Cuerpo Fleur,Profusely Blooming Body
+543,650,Doble Clutch,Double Clutch
+544,185,Hook,Hook
+545,621,Yonhyappon Punk Knock,Four Hundred Punk Knock
+546,621,Mogurazuka Yonban Kousaten,Molehill Intersection Number 4
+547,574,Mogura Tonpo: Mogugyo,Mole Digging Technique: Mole-Fish
+548,574,Mogura Banana,Mole Palm Shoot
+549,574,Mogurazuka Highway,Molehill Highway
+550,574,Mogu Mogu Impact,Mole Mole Honorable Death
+551,570,Double Stinger,Double Stinger
+552,570,Stinger Finger,Stinger Finger
+553,570,Stinger Hedgehog,Stinger Hedgehog
+554,570,Sewing Stinger,Sewing Stinger
+555,570,Stinger Step,Stinger Step
+556,570,Sea Urchin Stinger,Sea Urchin Stinger
+557,570,Toge Toge Doping,Spike Spike Acupuncture
+558,570,Stinger Flail,Stinger Flail
+559,635,Heat Ball,Heat Bubble
+560,635,Cool Ball,Cool Bubble
+561,635,Thunder Ball,Electric Bubble
+562,635,Fine Tempo,Fine Tempo
+563,635,Cloudy Tempo,Cloudy Tempo
+564,635,Thunder Tempo,Thunder Tempo
+565,635,Rain Tempo,Rain Tempo
+566,635,Sprinkler,Sprinkler
+567,635,Cyclone Tempo,Cyclone Tempo
+568,635,Mirage Tempo,Mirage Tempo
+569,635,Thunderbolt Tempo,Thunderbolt Tempo
+570,635,Tornado Tempo,Tornado Tempo
+571,635,Fog Tempo,Fog Tempo
+572,635,Thunderstorm Tempo,Thunderstorm Tempo
+573,635,Thunder Charge,Thunder Charge
+574,635,Swing Arm,Swing Arm
+575,635,Cool Charge,Cool Charge
+576,635,Mirage Tempo: Fata Morgana,Mirage Tempo: Fata Morgana
+577,635,Dark Cloud Tempo,Dark Cloud Tempo
+578,635,Thunder Lance Tempo,Thunder Lance Tempo
+579,635,Cyclone Burst,Cyclone Burst
+580,635,Gust Sword,Gust Sword
+581,635,Black Ball: Raiun Rod,Black Ball: Thundercloud Rod
+582,635,Thunder Trap,Thundercloud Trap
+583,635,Heat Egg,Heat Egg
+584,635,Milky Ball,Milky Ball
+585,635,Weather Egg,Weather Egg
+586,635,Thunder Breed Tempo,Thunder Breed Tempo
+587,635,Yukigumo,Snow Clouds
+588,635,Shower Tempo,Shower Tempo
+589,635,Milky Road,Milky Road
+590,635,Shiawase Punch,Happiness Punch
+591,199,Spider,Cutting Man
+592,199,Spar Claw,Holding Decapitation
+593,199,Sparkling Daisy,Foaming Daisy Decapitation
+594,199,Atomic Spar,Particle Decapitation
+595,199,Spiral Hollow,Helix Uproot Decapitation
+596,199,Spar Break,Incoherent Decapitation
+597,199,Atomic Spurt,Particle Decapitation Speed Blade
+598,601,Mizu Luffy,Water Luffy
+599,601,Mizu Mizu no Pistol,Water Water Pistol
+600,571,Lady Smash,Lady Smash
+601,624,Lady Smash,Lady Smash
+602,358,Awase Baori,Lined Kimono Feather Cage
+603,540,Saru Naguri,Monkey Punch
+604,834,Search Sonar,Search Sonar
+605,834,Havoc Sonar,Havoc Sonar
+606,795,Big Chop,Big Chop
 607,67,Spring Snipe,Spring Snipe
 608,67,Spring Hopper,Spring Recoil Man
 609,67,Spring Death Knock,Spring Death Fist
-610,288,Lance,Lance
-611,962,Burn Bazooka,Burn Bazooka
-612,833,Heat Javelin,Heat Javelin
-613,666,Eisen Whip,Whip of Iron
-614,666,Eisen Fan,Fan of Iron
-615,666,Eisen Fork,Eisen Fork
-616,666,Eisen Back,Eisen Back
-617,666,Eisen Fleuret,Eisen Fleuret
-618,954,Milky Arrow,Milky Arrow
-619,794,Impact Dial,Impact Dial
-620,794,Bikkuritama,Surprise Balls
-621,794,Bikkuritama Tsuki,Surprise Ball Attack
-622,794,Tama Dragon,Ball Dragon
-623,288,Impact Dial,Impact Dial
-624,278,Flame Dial,Flame Dial
-625,962,Reject Dial,Reject Dial
-626,308,Axe Dial,Axe Dial
-627,966,Axe Mountain,Slicing Attack Perfect Score
-628,966,Stomach Mountain,Stomach Perfect Score
-629,966,Punch Mountain,Fist Perfect Score
-630,966,Drop Mountain,Falling Perfect Score
-631,292,Milky Dial,Milky Dial
-632,292,Swamp Cloud Burger,Swamp Cloud Burger
-633,292,Jet Punch,Jet Punch
-634,366,Impact Dial,Impact Dial
-635,472,Flame Dial,Flame Dial
-636,366,Flavor Dial,Flavor Dial
-637,472,Axe Dial,Axe Dial
-638,366,Bikkuri Dial Illusion,Surprise Dial Illusion
-639,472,Bikkuri Dial Illusion,Surprise Dial Illusion
-640,633,Impact Dial,Impact Dial
-641,432,Burning Blade,Burning Blade
-642,246,1 Million Volt Vari,1 Million Volt Electrical Discharge
-643,246,5 Million Volt Vari,5 Million Volt Electrical Discharge
-644,246,10 Million Volt Vari,10 Million Volt Electrical Discharge
-645,246,20 Million Volt Vari,20 Million Volt Electrical Discharge
-646,246,30 Million Volt Vari,30 Million Volt Electrical Discharge
-647,246,50 Million Volt Vari,50 Million Volt Electrical Discharge
-648,246,60 Million Volt Vari,60 Million Volt Electrical Discharge
-649,246,100 Million Volt Vari,100 Million Volt Electrical Discharge
-650,246,200 Million Volt Vari,200 Million Volt Electrical Discharge
-651,246,Sango,Lightning
-652,246,El Thor,Judgment of God
-653,246,Kari,Electric Light
-654,246,"30,000,000 Volt Hino",Thunder Bird
-655,246,Kiten,Lightning Beast
-656,246,"60,000,000 Volt Julungul",Lightning Dragon
-657,246,Raigo,Advent of Thunder
-658,246,Gloam Paddling,Thunder Metallurgy
-659,246,Deathpiea,Deathpiea
-660,246,Mamaragan,Heavy Thunder
-661,246,"200,000,000 Volt Amaru",Thunder God
-662,246,Nonosama Bo,Nonosama Bo
+610,289,Lance,Lance
+611,965,Burn Bazooka,Burn Bazooka
+612,836,Heat Javelin,Heat Javelin
+613,668,Eisen Whip,Whip of Iron
+614,668,Eisen Fan,Fan of Iron
+615,668,Eisen Fork,Eisen Fork
+616,668,Eisen Back,Eisen Back
+617,668,Eisen Fleuret,Eisen Fleuret
+618,957,Milky Arrow,Milky Arrow
+619,797,Impact Dial,Impact Dial
+620,797,Bikkuritama,Surprise Balls
+621,797,Bikkuritama Tsuki,Surprise Ball Attack
+622,797,Tama Dragon,Ball Dragon
+623,289,Impact Dial,Impact Dial
+624,279,Flame Dial,Flame Dial
+625,965,Reject Dial,Reject Dial
+626,309,Axe Dial,Axe Dial
+627,969,Axe Mountain,Slicing Attack Perfect Score
+628,969,Stomach Mountain,Stomach Perfect Score
+629,969,Punch Mountain,Fist Perfect Score
+630,969,Drop Mountain,Falling Perfect Score
+631,293,Milky Dial,Milky Dial
+632,293,Swamp Cloud Burger,Swamp Cloud Burger
+633,293,Jet Punch,Jet Punch
+634,367,Impact Dial,Impact Dial
+635,474,Flame Dial,Flame Dial
+636,367,Flavor Dial,Flavor Dial
+637,474,Axe Dial,Axe Dial
+638,367,Bikkuri Dial Illusion,Surprise Dial Illusion
+639,474,Bikkuri Dial Illusion,Surprise Dial Illusion
+640,635,Impact Dial,Impact Dial
+641,434,Burning Blade,Burning Blade
+642,247,1 Million Volt Vari,1 Million Volt Electrical Discharge
+643,247,5 Million Volt Vari,5 Million Volt Electrical Discharge
+644,247,10 Million Volt Vari,10 Million Volt Electrical Discharge
+645,247,20 Million Volt Vari,20 Million Volt Electrical Discharge
+646,247,30 Million Volt Vari,30 Million Volt Electrical Discharge
+647,247,50 Million Volt Vari,50 Million Volt Electrical Discharge
+648,247,60 Million Volt Vari,60 Million Volt Electrical Discharge
+649,247,100 Million Volt Vari,100 Million Volt Electrical Discharge
+650,247,200 Million Volt Vari,200 Million Volt Electrical Discharge
+651,247,Sango,Lightning
+652,247,El Thor,Judgment of God
+653,247,Kari,Electric Light
+654,247,"30,000,000 Volt Hino",Thunder Bird
+655,247,Kiten,Lightning Beast
+656,247,"60,000,000 Volt Julungul",Lightning Dragon
+657,247,Raigo,Advent of Thunder
+658,247,Gloam Paddling,Thunder Metallurgy
+659,247,Deathpiea,Deathpiea
+660,247,Mamaragan,Heavy Thunder
+661,247,"200,000,000 Volt Amaru",Thunder God
+662,247,Nonosama Bo,Nonosama Bo
 663,125,Spear,Spear
-664,927,Usopp Snipe,Usopp Snipe
-665,599,Gomu Gomu no Hanabi: Ogon Botan,Rubber Rubber Fireworks: Golden Peony
-666,599,Gomu Gomu no Ogon Rifle,Rubber Rubber Golden Spinning Bullet
+664,930,Usopp Snipe,Usopp Snipe
+665,601,Gomu Gomu no Hanabi: Ogon Botan,Rubber Rubber Fireworks: Golden Peony
+666,601,Gomu Gomu no Ogon Rifle,Rubber Rubber Golden Spinning Bullet
 667,131,Kaimen Wari,Sea Surface Splitter
 668,131,Two Fish Engine,Fish-Fishman Swimming Method
-669,707,Ohana Shuriken,Flower Shuriken
-670,707,Ohana Saimin,Flower Hypnosis
-671,267,Uso Shiji Daisakusen,Great Strategy Lying Signpost
-672,267,Uso Goal Daisakusen,Great Strategy Lying Goal
-673,267,Glove Upgrade,Glove Upgrade
-674,267,Foxy Shichihenge,Foxy Seven-Change Disguise
-675,267,Counter Fox Blow,Fox Trap Counter-Attack
-676,267,Kuyashimagire Ipponzeoi,Overhead Throw of Revenge
-677,267,Gorilla Puncher #13,Gorilla Puncher #13
-678,267,Dead Hit-kun,Dead Hit-kun
-679,267,Noro Noro Beam,Slow Slow Beam
-680,267,Kyubi Rush,Nine-Tails Rush
-681,267,Noro Noro Foxy Face Bombs,Slow Slow Foxy Face Bombs
-682,267,Mirror Racket,Mirror Racket
-683,267,Noro Marble Coach Devil,Slow Marble Coach Devil
-684,267,Noro Noro Beam Sword,Slow Slow Beam Sword
-685,267,Megaton Kyubi Rush,Megaton Nine-Tails Rush
-686,267,Foxy Fighter,Foxy Flying Fox
-687,267,High Speed Rotation Mirror Ball,High Speed Rotation Mirror Ball
-688,701,Sling Tackle,Sling Tackle
-689,701,Osōji Tackle,Wipeout Tackle
-690,701,Spinning Tackle,Spinning Tackle
-691,701,Size Attack S-M-L,Size Attack! Small!! Medium!! Large!!
-692,701,Monster Burger,Monster Burger
+669,709,Ohana Shuriken,Flower Shuriken
+670,709,Ohana Saimin,Flower Hypnosis
+671,268,Uso Shiji Daisakusen,Great Strategy Lying Signpost
+672,268,Uso Goal Daisakusen,Great Strategy Lying Goal
+673,268,Glove Upgrade,Glove Upgrade
+674,268,Foxy Shichihenge,Foxy Seven-Change Disguise
+675,268,Counter Fox Blow,Fox Trap Counter-Attack
+676,268,Kuyashimagire Ipponzeoi,Overhead Throw of Revenge
+677,268,Gorilla Puncher #13,Gorilla Puncher #13
+678,268,Dead Hit-kun,Dead Hit-kun
+679,268,Noro Noro Beam,Slow Slow Beam
+680,268,Kyubi Rush,Nine-Tails Rush
+681,268,Noro Noro Foxy Face Bombs,Slow Slow Foxy Face Bombs
+682,268,Mirror Racket,Mirror Racket
+683,268,Noro Marble Coach Devil,Slow Marble Coach Devil
+684,268,Noro Noro Beam Sword,Slow Slow Beam Sword
+685,268,Megaton Kyubi Rush,Megaton Nine-Tails Rush
+686,268,Foxy Fighter,Foxy Flying Fox
+687,268,High Speed Rotation Mirror Ball,High Speed Rotation Mirror Ball
+688,703,Sling Tackle,Sling Tackle
+689,703,Osōji Tackle,Wipeout Tackle
+690,703,Spinning Tackle,Spinning Tackle
+691,703,Size Attack S-M-L,Size Attack! Small!! Medium!! Large!!
+692,703,Monster Burger,Monster Burger
 693,75,Punk Pass,Punk Pass
 694,75,Punk Receive,Punk Dig
 695,75,Too Bad Dance,Too Bad Dance
@@ -700,14 +700,14 @@
 700,75,Ningen Taiho,Human Cannon
 701,75,Size Attack S-M-L,Size Attack! Small!! Medium!! Large!!
 702,75,Monster Burger,Monster Burger
-703,332,Gorilla Throw,Gorilla Throw
-704,332,Hamburger Hammer,Hamburger Hammer
-705,332,Size Attack S-M-L,Size Attack! Small!! Medium!! Large!!
-706,332,Monster Burger,Monster Burger
-707,599,Gomu Hook,Rubber Hook
-708,599,Gomu Gomu no Flail,Rubber Rubber Connecting Hammer Spear
-709,267,Gorilla Puncher #13: Gorilla Punch Golden Hits,Gorilla Punch Solid Gold Hits
-710,267,Gorilla Puncher #13: Gorilla Punch Golden Kick,Gorilla Punch Golden Kick
+703,333,Gorilla Throw,Gorilla Throw
+704,333,Hamburger Hammer,Hamburger Hammer
+705,333,Size Attack S-M-L,Size Attack! Small!! Medium!! Large!!
+706,333,Monster Burger,Monster Burger
+707,601,Gomu Hook,Rubber Hook
+708,601,Gomu Gomu no Flail,Rubber Rubber Connecting Hammer Spear
+709,268,Gorilla Puncher #13: Gorilla Punch Golden Hits,Gorilla Punch Solid Gold Hits
+710,268,Gorilla Puncher #13: Gorilla Punch Golden Kick,Gorilla Punch Golden Kick
 711,28,Ice Age,Glacial Epoch
 712,28,Ice Saber,Ice Saber
 713,28,Ice Time,Ice Time
@@ -715,238 +715,238 @@
 715,28,Ice Time Capsule,Ice Time Capsule
 716,28,Ice Ball,Ice Ball
 717,28,Ice Block: Pheasant Beak,Ice Block: Pheasant Peck
-718,687,Rope Action: Round Turn,Rope Action: Round Turn
-719,687,Rope Action: Bowline Knot,Rope Action: Bowline Knot
-720,687,Oshioki: Ippon Dzuri,"Hook, Line and Sinker"
-721,687,Rope Action: Half-Knot Air Drive,Rope Action: Half-Knot Air Drive
-722,687,Pipe Hitch Knives,Pipe Hitch Knives
-723,687,Rope Action: Figure of Eight Knot,Rope Action: Figure of Eight Knot
-724,687,Rope Action: Timber Hitch Tug,Rope Action: Timber Hitch Tug
-725,687,Top Knot,Top Knot
-726,687,Shrouds and Rat-Line Knot,Shrouds and Rat-Line Knot
-727,271,Anything Goes Shot Cannon,Anything Goes Shot Cannon
-728,270,Fresh Fire,Fresh Fire
-729,270,Master Nail,Master Nail
-730,270,Franky Triangle Jacker,Franky Triangle Jacker
-731,270,Franky Invincible,Franky Invincible
-732,270,Franky Destroy Ho,Franky Destroy Cannon
-733,270,Tsuiseki Hodan,Tracking Cannonball
-734,270,Strong Right,Strong Right
-735,270,Strong Hitter,Strong Hitter
-736,270,Strong Hammer,Strong Hammer
-737,270,Ultimate Hammer,Ultimate Hammer
-738,270,Oyasai Punch,Vegetable Punch
-739,270,Weapons Left,Weapons Left
-740,270,Beans Left,Beans Left
-741,270,Hoshi Shield,Star Shield
-742,270,Ouch Finger,Ouchie Finger
-743,270,Hakugeki Ho,Trench Mortar
-744,270,Coup de Vent,Wind Cannon
-745,270,70mm Kokei 0.2 Cola Ho Coup de Vent,"70mm caliber, 0.2 Cola Cannon Small Wind Blow"
-746,270,70mm Kokei 1.5 MAX Cola Power Coup de Vent,"70mm caliber, 1.5 MAX Cola Power Wind Blow"
-747,270,Franky Boxing,Franky Boxing
-748,270,Franky Butterfly,Franky Butterfly
-749,270,Heavy Nunchaku,Heavy Nunchaku
-750,270,Franky Skywalk,Franky Skywalk
-751,270,Franky Kentauros,Franky Centaur
-752,270,Coup de Boo,Fart Blow
-753,270,1.0 Cola Ho Coup de Boo,1.0 Cola Cannon Fart Blow
-754,270,Pirates Docking 6: Big Emperor,Pirates Docking 6: Big Emperor
-755,270,Pirates Docking 3,Pirates Docking 3
-756,270,Pirates Docking 7,Pirates Docking 7
-757,270,Armée de L'Air Robo Shoot,Air Force Robo Shoot
-758,270,Hissatsu Tetsujin Suisei,Sure-Kill Iron Man Comet
-759,270,Super Frapper Gong,Super Frapper Gong
-760,270,Super Size Hi no Tori Boshi,Super Size Fire Bird Star
-761,270,Franky Radical Beam,Franky Radical Beam
-762,270,Franky Southland Suplex,Franky Southland Suplex
-763,270,Franky Iron Boxing,Franky Iron Boxing
-764,270,Franky Rocket Launcher,Franky Rocket Launcher
-765,270,Franky Cannon,Franky Cannon
-766,270,Franky Nipple Light,Franky Nipple Light
-767,270,Nipple Light Special,Nipple Light Special
-768,270,Franky Tank,Franky Tank
-769,270,Franky Hair Salon,Franky Hair Salon
-770,270,Franky Fireball,Franky Fireball
-771,270,"Iron Pirate ""Franky Shogun""","Iron Pirate ""Franky Shogun"""
-772,270,General Ashimoto Dangerous,General Gait Hazard
-773,270,General Omomi,General Weight
-774,270,General Left,General Left
-775,270,General Daijobu,General OK
-776,270,General Shield,General Shield
-777,270,General Shield Boomerang,General Shield Boomerang
-778,270,General Cannon,General Cannon
+718,689,Rope Action: Round Turn,Rope Action: Round Turn
+719,689,Rope Action: Bowline Knot,Rope Action: Bowline Knot
+720,689,Oshioki: Ippon Dzuri,"Hook, Line and Sinker"
+721,689,Rope Action: Half-Knot Air Drive,Rope Action: Half-Knot Air Drive
+722,689,Pipe Hitch Knives,Pipe Hitch Knives
+723,689,Rope Action: Figure of Eight Knot,Rope Action: Figure of Eight Knot
+724,689,Rope Action: Timber Hitch Tug,Rope Action: Timber Hitch Tug
+725,689,Top Knot,Top Knot
+726,689,Shrouds and Rat-Line Knot,Shrouds and Rat-Line Knot
+727,272,Anything Goes Shot Cannon,Anything Goes Shot Cannon
+728,271,Fresh Fire,Fresh Fire
+729,271,Master Nail,Master Nail
+730,271,Franky Triangle Jacker,Franky Triangle Jacker
+731,271,Franky Invincible,Franky Invincible
+732,271,Franky Destroy Ho,Franky Destroy Cannon
+733,271,Tsuiseki Hodan,Tracking Cannonball
+734,271,Strong Right,Strong Right
+735,271,Strong Hitter,Strong Hitter
+736,271,Strong Hammer,Strong Hammer
+737,271,Ultimate Hammer,Ultimate Hammer
+738,271,Oyasai Punch,Vegetable Punch
+739,271,Weapons Left,Weapons Left
+740,271,Beans Left,Beans Left
+741,271,Hoshi Shield,Star Shield
+742,271,Ouch Finger,Ouchie Finger
+743,271,Hakugeki Ho,Trench Mortar
+744,271,Coup de Vent,Wind Cannon
+745,271,70mm Kokei 0.2 Cola Ho Coup de Vent,"70mm caliber, 0.2 Cola Cannon Small Wind Blow"
+746,271,70mm Kokei 1.5 MAX Cola Power Coup de Vent,"70mm caliber, 1.5 MAX Cola Power Wind Blow"
+747,271,Franky Boxing,Franky Boxing
+748,271,Franky Butterfly,Franky Butterfly
+749,271,Heavy Nunchaku,Heavy Nunchaku
+750,271,Franky Skywalk,Franky Skywalk
+751,271,Franky Kentauros,Franky Centaur
+752,271,Coup de Boo,Fart Blow
+753,271,1.0 Cola Ho Coup de Boo,1.0 Cola Cannon Fart Blow
+754,271,Pirates Docking 6: Big Emperor,Pirates Docking 6: Big Emperor
+755,271,Pirates Docking 3,Pirates Docking 3
+756,271,Pirates Docking 7,Pirates Docking 7
+757,271,Armée de L'Air Robo Shoot,Air Force Robo Shoot
+758,271,Hissatsu Tetsujin Suisei,Sure-Kill Iron Man Comet
+759,271,Super Frapper Gong,Super Frapper Gong
+760,271,Super Size Hi no Tori Boshi,Super Size Fire Bird Star
+761,271,Franky Radical Beam,Franky Radical Beam
+762,271,Franky Southland Suplex,Franky Southland Suplex
+763,271,Franky Iron Boxing,Franky Iron Boxing
+764,271,Franky Rocket Launcher,Franky Rocket Launcher
+765,271,Franky Cannon,Franky Cannon
+766,271,Franky Nipple Light,Franky Nipple Light
+767,271,Nipple Light Special,Nipple Light Special
+768,271,Franky Tank,Franky Tank
+769,271,Franky Hair Salon,Franky Hair Salon
+770,271,Franky Fireball,Franky Fireball
+771,271,"Iron Pirate ""Franky Shogun""","Iron Pirate ""Franky Shogun"""
+772,271,General Ashimoto Dangerous,General Gait Hazard
+773,271,General Omomi,General Weight
+774,271,General Left,General Left
+775,271,General Daijobu,General OK
+776,271,General Shield,General Shield
+777,271,General Shield Boomerang,General Shield Boomerang
+778,271,General Cannon,General Cannon
 779,91,Tekkai,Iron Body
 780,91,"Tekkai ""Rin""","Iron Mass: ""Wheel"""
 781,91,"Tekkai ""Sai"""," Iron Mass: ""Smash"""
 782,91,"Tekkai ""Go""","Iron Mass: ""Strength"""
-783,429,Rankyaku,Tempest Kick
-784,429,"Rankyaku ""Sen"""," Storm Leg: ""Line"""
-785,429,"Rankyaku ""Hakurai""","Storm Leg: ""White Lightning"""
-786,429,"Rankyaku ""Ran""","Storm Leg: ""Confusion"""
-787,429,"Rankyaku ""Amane Dachi""","Storm Leg: ""Severing Cut"""
-788,429,"Rankyaku ""Kiri Shigure""","Storm Leg: ""Giraffe Autumn Rain"""
-789,429,"Rankyaku ""Neji Hakujin""","Storm Leg: ""Spiraling White Blade"""
-790,429,"Rankyaku ""Rodan""","Storm Leg: ""Dragon Cut"""
-791,429,"Rankyaku ""Shuriken""","Storm Leg: ""Shuriken"""
-792,431,Geppo,Moonwalk
-793,431,Ibara Road,Thorny Road
-794,749,Shigan,Finger Pistol
-795,749,"Shigan ""Oren""","Finger Gun: ""Yellow Lotus"""
-796,749,"Tobu Shigan ""Bachi""","Flying Finger Gun: ""Plectrum"""
-797,749,"Tobu Shigan ""Mitsubachi""","Flying Finger Gun: ""Three Plectrum"""
-798,749,"Tobu Shigan ""Hibachi""","Flying Finger Gun: ""Fire Plectrum"""
-799,749,"Shigan ""Madara""","Finger Gun: ""Spots"""
-800,749,Tekkai,Iron Mass
-801,749,"Tekkai ""Utsugi""","Iron Mass: ""Deutzia"""
-802,749,Soru,Shave
-803,749,Kamisori,Razor
+783,431,Rankyaku,Tempest Kick
+784,431,"Rankyaku ""Sen"""," Storm Leg: ""Line"""
+785,431,"Rankyaku ""Hakurai""","Storm Leg: ""White Lightning"""
+786,431,"Rankyaku ""Ran""","Storm Leg: ""Confusion"""
+787,431,"Rankyaku ""Amane Dachi""","Storm Leg: ""Severing Cut"""
+788,431,"Rankyaku ""Kiri Shigure""","Storm Leg: ""Giraffe Autumn Rain"""
+789,431,"Rankyaku ""Neji Hakujin""","Storm Leg: ""Spiraling White Blade"""
+790,431,"Rankyaku ""Rodan""","Storm Leg: ""Dragon Cut"""
+791,431,"Rankyaku ""Shuriken""","Storm Leg: ""Shuriken"""
+792,433,Geppo,Moonwalk
+793,433,Ibara Road,Thorny Road
+794,752,Shigan,Finger Pistol
+795,752,"Shigan ""Oren""","Finger Gun: ""Yellow Lotus"""
+796,752,"Tobu Shigan ""Bachi""","Flying Finger Gun: ""Plectrum"""
+797,752,"Tobu Shigan ""Mitsubachi""","Flying Finger Gun: ""Three Plectrum"""
+798,752,"Tobu Shigan ""Hibachi""","Flying Finger Gun: ""Fire Plectrum"""
+799,752,"Shigan ""Madara""","Finger Gun: ""Spots"""
+800,752,Tekkai,Iron Mass
+801,752,"Tekkai ""Utsugi""","Iron Mass: ""Deutzia"""
+802,752,Soru,Shave
+803,752,Kamisori,Razor
 804,91,Kami-e,Paper Drawing
 805,91,Soru,Shave
 806,91,Geppo,Moonwalk
-807,431,Rankyaku,Tempest Kick
-808,429,Shigan,Finger Pistol
-809,749,Rankyaku,Tempest Kick
-810,270,Battle Franky 35,Battle Franky 35
-811,405,Jerry Aurora Flicker Jab,Jerry Aurora Flicker Jab
-812,405,Yoga One Two,Yoga One Two
-813,405,Screw Drop Kick,Screw Drop Kick
-814,904,Demi Cannon,Demi Cannon
-815,904,Ryukotsu Ori,Keel Crusher
-816,904,Trunnel Lock,Trunnel Lock
-817,904,Senkan Ho,Warship Cannon
-818,271,Super Scrap Cannon,Super Scrap Cannon
-819,946,Ramen Beam,Japanese Noodle Beam
-820,946,Men-Kiri,Noodle Cutting
-821,946,Fire Skate,Flaming Cleaver
-822,946,Ramen Kenpo Ogi: Men's Formal Suit,Ramen Kenpo Ultimate Technique: Japanese Noodle Formal Battle-Suit
-823,946,Tonkotsu Spank,Pork Topping Spank
-824,946,Men Soul Press,Noodle Soul Press
-825,946,Ramen Gyoza Set - Clapping,Ramen and Potsticker Combo... Super Slap
-826,946,Fukumen Spank,Multi-Noodle Spank
-827,946,Senmen Muchi,Thousand Noodle Whip
-828,946,Menkui Knocker,Noodle Nail Knockout
-829,946,Hocho Nage,Kitchen Knife Throw
-830,946,Ramen Kenpo Ura Hiden: Men-Kiri Doku Bocho,Ramen Kung Fu — Secret Attack: Poison Pasta Cutter
-831,893,Chokkaku Senko: Bone Soir,Right Angle Flash: Bone Soir
-832,893,Chokkaku Hicho: Bone Odori,Right Angle Flying Bird Bone: Bird of Prey
-833,642,Soru,Shave
-834,642,Kami-e,Paper Drawing
-835,642,Rankyaku,Tempest Kick
-836,642,Geppo,Moonwalk
-837,642,"Rankyaku ""Sen""","""Storm Leg: ""Line"""
-838,787,Epluchage,Peel Skin
+807,433,Rankyaku,Tempest Kick
+808,431,Shigan,Finger Pistol
+809,752,Rankyaku,Tempest Kick
+810,271,Battle Franky 35,Battle Franky 35
+811,407,Jerry Aurora Flicker Jab,Jerry Aurora Flicker Jab
+812,407,Yoga One Two,Yoga One Two
+813,407,Screw Drop Kick,Screw Drop Kick
+814,907,Demi Cannon,Demi Cannon
+815,907,Ryukotsu Ori,Keel Crusher
+816,907,Trunnel Lock,Trunnel Lock
+817,907,Senkan Ho,Warship Cannon
+818,272,Super Scrap Cannon,Super Scrap Cannon
+819,949,Ramen Beam,Japanese Noodle Beam
+820,949,Men-Kiri,Noodle Cutting
+821,949,Fire Skate,Flaming Cleaver
+822,949,Ramen Kenpo Ogi: Men's Formal Suit,Ramen Kenpo Ultimate Technique: Japanese Noodle Formal Battle-Suit
+823,949,Tonkotsu Spank,Pork Topping Spank
+824,949,Men Soul Press,Noodle Soul Press
+825,949,Ramen Gyoza Set - Clapping,Ramen and Potsticker Combo... Super Slap
+826,949,Fukumen Spank,Multi-Noodle Spank
+827,949,Senmen Muchi,Thousand Noodle Whip
+828,949,Menkui Knocker,Noodle Nail Knockout
+829,949,Hocho Nage,Kitchen Knife Throw
+830,949,Ramen Kenpo Ura Hiden: Men-Kiri Doku Bocho,Ramen Kung Fu — Secret Attack: Poison Pasta Cutter
+831,896,Chokkaku Senko: Bone Soir,Right Angle Flash: Bone Soir
+832,896,Chokkaku Hicho: Bone Odori,Right Angle Flying Bird Bone: Bird of Prey
+833,644,Soru,Shave
+834,644,Kami-e,Paper Drawing
+835,644,Rankyaku,Tempest Kick
+836,644,Geppo,Moonwalk
+837,644,"Rankyaku ""Sen""","""Storm Leg: ""Line"""
+838,790,Epluchage,Peel Skin
 839,91,Door Door,Door Door
 840,91,Air Door,Air Door Opening
 841,91,Kaiten Door,Revolving Door
 842,91,Rankyaku,Tempest Kick
 843,91,Shigan,Finger Pistol
-844,985,Bazooka Bat,Bazooka Bat
-845,985,Kaitai Buttagiri,Dismantling Cut
-846,462,Sentei Kaitai Giri,Hull Dismantler Slash
-847,614,Sentei Kaitai Giri,Hull Dismantler Slash
-848,691,Trunnel Lock,Trunnel Lock
-849,274,Te-awase,Match
-850,477,Tekkai,Iron Mass
-851,599,Gear Second,Gear Second
-852,599,Gear Third,Gear Third
-853,599,Gear Fourth,Gear Fourth
-854,749,Geppo,Moonwalk
-855,477,Geppo,Moonwalk
-856,667,Oimo Press,Oimo Press
-857,274,Soru,Shave
-858,274,Geppo,Moonwalk
-859,429,,
-860,429,Soru,Shave
-861,429,Geppo,Moonwalk
-862,396,"Tekkai Kenpo ""Okami Hajiki""","Iron Mass Style: ""Wolf Bullet"""
-863,396,"Tekkai Kenpo ""Roga no Kamae""","Iron Mass Style: ""Wolf-Fang Stance"""
-864,396,"Tekkai Kenpo ""Roba no Kamae"""," Iron Mass Style: ""Wolf-Banana Stance"""
-865,396,Rokaru Area Network,Wolf-Hunt Area Network
-866,396,"Tekkai Kenpo ""Don Poro"""," Iron Mass Style: ""Important Wolf Step"""
-867,396,"Tekkai Kenpo ""Matenro""","Iron Mass Style: ""Devil-Heaven Wolf"""
-868,396,Jusshigan,Ten Finger Pistol
-869,396,Gekko Jusshigan,Moonlight Ten Finger Pistol
-870,396,"Rankyaku ""Koro""","Storm Leg: ""Lone Wolf"""
-871,396,"Rankyaku ""Lupus Fall"""," Storm Leg: ""Binary Star of Wolves"""
-872,429,Yontoryu,Four Sword Style
-873,429,Henkei Jinjugata,Transformation Human-Beast Form
-874,429,Kama Kirin,Scythe Giraffe
-875,429,Pasta Machine,Pasta Machine
-876,429,Gekirin,Imperial Wrath
-877,429,Bigan,Nose Gun
-878,429,Kirin Hodai,Giraffe Cannon Stand
-879,429,"Kyoku Bigan ""Kirimanjaro""",Extreme Nose Pistol Giraffe Blast
-880,429,"Tekkai ""Mushikaku""","Iron Mass: ""No Weak Spots"""
-881,429,Henchikirin,Bamboo Whip Forest
-882,429,Mochikirin,Fierce Bamboo Forest
-883,477,Shigan Cue,Finger Gun: Cue
-884,477,Shishi Kebab,Lion Kebab
-885,477,Kami Shibari,Hair Bind
-886,477,Haru Gin Jo,Spring Poem of Passion
-887,477,Yana Gin Jo,Willow Poem of Passion
-888,477,"Shoka, Kyushu","Digestion, Absorption"
-889,477,Shishi Shigan,Lion Finger Gun
-890,274,Tekkai,Iron Mass
-891,274,Jugon,Stern Beast
-892,274,"Jugon Ogi: ""Fukuro Dataki""","Stern Beast Secret Attack: ""Owl Strike"""
-893,274,"Soru ""Tekkai Dama""","Shave: ""Iron Mass Ball"""
-894,274,Cho Sokuten Tekkai Dama,Super Cartwheel: Iron Mass Ball
-895,274,"Kami-e ""Slime""","Paper Drawing: ""Slime"""
-896,749,Rokushiki Ogi: Rokuogan,Six Powers Ultimate Attack: Six King Gun
-897,749,Sai Dai Rin: Rokuogan,The Largest Ring: Six King Gun
-898,749,Seimei Kikan: Kami-e Bushin,Life Return: Paper Drawing Fighting Form
-899,749,Seimei Kikan: Kaijo,Life Return: Cancel
-900,477,"Tekkai ""Go""","Iron Mass: ""Strength"""
-901,431,"Shinaru Shigan ""Whip""","Bending Finger Gun: ""Whip"""
-902,477,"Rankyaku ""Renge""","Storm Leg: ""Lotus Blossom"""
-903,431,Soru,Shave
-904,431,Shigan,Finger Pistol
-905,477,Seimei Kikan,Life Return
-906,431,Golden Hour,Golden Bubbles
-907,431,Bubble Master: Soap Sheep,Bubble Master: Soap Sheep
-908,431,Hitsuji Gumo Relax Hour,Sheep Cloud Relax Bubble
-909,431,Hitsuji Gumo Tidal Wave,Sheep Cloud Tidal Wave
-910,274,Rankyaku,Tempest Kick
-911,274,Kami-e,Paper Drawing
-912,396,Shigan,Finger Pistol
-913,477,Soru,Shave
-914,276,Ivory Dart,Ivory Rush
-915,276,Elephant Chop,Elephant Chop
-916,396,Soru,Shave
-917,396,Tekkai,Iron Mass
-918,396,Geppo,Moonwalk
-919,429,Tekkai,Iron Mass
-920,429,Kami-e,Paper Drawing
-921,749,"Rankyaku ""Hyobi"""," Storm Leg: ""Leopard-Tail"""
-922,749,"Rankyaku ""Gaicho"""," Storm Leg: ""Victorious Bird"""
-923,749,"Rankyaku ""Ran"""," Storm Leg: ""Confusion"""
-924,534,Geppo,Moonwalk
-925,598,Ai aru Kobushi,Fist of Love
-926,598,Genkotsu Meteor,Fist Meteorite
-927,598,Genkotsu Ryuseigun,Fist Meteor Shower
-928,166,Soru,Shave
-929,902,Coup de Burst,Burst Blow
+844,988,Bazooka Bat,Bazooka Bat
+845,988,Kaitai Buttagiri,Dismantling Cut
+846,464,Sentei Kaitai Giri,Hull Dismantler Slash
+847,616,Sentei Kaitai Giri,Hull Dismantler Slash
+848,693,Trunnel Lock,Trunnel Lock
+849,275,Te-awase,Match
+850,479,Tekkai,Iron Mass
+851,601,Gear Second,Gear Second
+852,601,Gear Third,Gear Third
+853,601,Gear Fourth,Gear Fourth
+854,752,Geppo,Moonwalk
+855,479,Geppo,Moonwalk
+856,669,Oimo Press,Oimo Press
+857,275,Soru,Shave
+858,275,Geppo,Moonwalk
+859,431,,
+860,431,Soru,Shave
+861,431,Geppo,Moonwalk
+862,397,"Tekkai Kenpo ""Okami Hajiki""","Iron Mass Style: ""Wolf Bullet"""
+863,397,"Tekkai Kenpo ""Roga no Kamae""","Iron Mass Style: ""Wolf-Fang Stance"""
+864,397,"Tekkai Kenpo ""Roba no Kamae"""," Iron Mass Style: ""Wolf-Banana Stance"""
+865,397,Rokaru Area Network,Wolf-Hunt Area Network
+866,397,"Tekkai Kenpo ""Don Poro"""," Iron Mass Style: ""Important Wolf Step"""
+867,397,"Tekkai Kenpo ""Matenro""","Iron Mass Style: ""Devil-Heaven Wolf"""
+868,397,Jusshigan,Ten Finger Pistol
+869,397,Gekko Jusshigan,Moonlight Ten Finger Pistol
+870,397,"Rankyaku ""Koro""","Storm Leg: ""Lone Wolf"""
+871,397,"Rankyaku ""Lupus Fall"""," Storm Leg: ""Binary Star of Wolves"""
+872,431,Yontoryu,Four Sword Style
+873,431,Henkei Jinjugata,Transformation Human-Beast Form
+874,431,Kama Kirin,Scythe Giraffe
+875,431,Pasta Machine,Pasta Machine
+876,431,Gekirin,Imperial Wrath
+877,431,Bigan,Nose Gun
+878,431,Kirin Hodai,Giraffe Cannon Stand
+879,431,"Kyoku Bigan ""Kirimanjaro""",Extreme Nose Pistol Giraffe Blast
+880,431,"Tekkai ""Mushikaku""","Iron Mass: ""No Weak Spots"""
+881,431,Henchikirin,Bamboo Whip Forest
+882,431,Mochikirin,Fierce Bamboo Forest
+883,479,Shigan Cue,Finger Gun: Cue
+884,479,Shishi Kebab,Lion Kebab
+885,479,Kami Shibari,Hair Bind
+886,479,Haru Gin Jo,Spring Poem of Passion
+887,479,Yana Gin Jo,Willow Poem of Passion
+888,479,"Shoka, Kyushu","Digestion, Absorption"
+889,479,Shishi Shigan,Lion Finger Gun
+890,275,Tekkai,Iron Mass
+891,275,Jugon,Stern Beast
+892,275,"Jugon Ogi: ""Fukuro Dataki""","Stern Beast Secret Attack: ""Owl Strike"""
+893,275,"Soru ""Tekkai Dama""","Shave: ""Iron Mass Ball"""
+894,275,Cho Sokuten Tekkai Dama,Super Cartwheel: Iron Mass Ball
+895,275,"Kami-e ""Slime""","Paper Drawing: ""Slime"""
+896,752,Rokushiki Ogi: Rokuogan,Six Powers Ultimate Attack: Six King Gun
+897,752,Sai Dai Rin: Rokuogan,The Largest Ring: Six King Gun
+898,752,Seimei Kikan: Kami-e Bushin,Life Return: Paper Drawing Fighting Form
+899,752,Seimei Kikan: Kaijo,Life Return: Cancel
+900,479,"Tekkai ""Go""","Iron Mass: ""Strength"""
+901,433,"Shinaru Shigan ""Whip""","Bending Finger Gun: ""Whip"""
+902,479,"Rankyaku ""Renge""","Storm Leg: ""Lotus Blossom"""
+903,433,Soru,Shave
+904,433,Shigan,Finger Pistol
+905,479,Seimei Kikan,Life Return
+906,433,Golden Hour,Golden Bubbles
+907,433,Bubble Master: Soap Sheep,Bubble Master: Soap Sheep
+908,433,Hitsuji Gumo Relax Hour,Sheep Cloud Relax Bubble
+909,433,Hitsuji Gumo Tidal Wave,Sheep Cloud Tidal Wave
+910,275,Rankyaku,Tempest Kick
+911,275,Kami-e,Paper Drawing
+912,397,Shigan,Finger Pistol
+913,479,Soru,Shave
+914,277,Ivory Dart,Ivory Rush
+915,277,Elephant Chop,Elephant Chop
+916,397,Soru,Shave
+917,397,Tekkai,Iron Mass
+918,397,Geppo,Moonwalk
+919,431,Tekkai,Iron Mass
+920,431,Kami-e,Paper Drawing
+921,752,"Rankyaku ""Hyobi"""," Storm Leg: ""Leopard-Tail"""
+922,752,"Rankyaku ""Gaicho"""," Storm Leg: ""Victorious Bird"""
+923,752,"Rankyaku ""Ran"""," Storm Leg: ""Confusion"""
+924,536,Geppo,Moonwalk
+925,600,Ai aru Kobushi,Fist of Love
+926,600,Genkotsu Meteor,Fist Meteorite
+927,600,Genkotsu Ryuseigun,Fist Meteor Shower
+928,167,Soru,Shave
+929,905,Coup de Burst,Burst Blow
 930,82,Black Hole,Dark Hole Path
 931,82,Liberation,Liberation
 932,82,Kurouzu,Black Spiral
-933,902,Soldier Dock System: Channel 0,Soldier Dock System Channel 0: Paddle Ship
-934,902,Soldier Dock System: Channel 1,Soldier Dock System Channel 1: Shiro Mokuba I
-935,902,Soldier Dock System: Channel 2,Soldier Dock System Channel 2: Mini Merry II
-936,902,Soldier Dock System: Channel 3,Soldier Dock System Channel 3: Shark Submerge III
-937,902,Soldier Dock System: Channel 4,Soldier Dock System Channel 4: Kurosai FR-U IV (prev. pool)
-938,902,Soldier Dock System: Channel 5,Soldier Dock System Channel 5: Brachio Tank V
-939,902,Soldier Dock System: Channel 6,Soldier Dock System Channel 6: Inflatable Pool
-940,902,Chicken Voyage,Chicken Voyage
-941,902,Gaon Cannon,Gaon Cannon
-942,938,Kaku Zara To,Square Dishes Swords
-943,698,Negative Hollow,Negative Hollow
-944,698,Yonbai no Negative Kogeki,Quadruple Negative Attack
-945,698,Mini Hollow,Mini Hollow
-946,698,Ghost Rap,Ghost Rap
-947,698,Toku Hollow,Special Hollow
-948,698,Kamikaze Rap,Divine Wind Rap
-949,698,Negative Ghost,Negative Ghost
+933,905,Soldier Dock System: Channel 0,Soldier Dock System Channel 0: Paddle Ship
+934,905,Soldier Dock System: Channel 1,Soldier Dock System Channel 1: Shiro Mokuba I
+935,905,Soldier Dock System: Channel 2,Soldier Dock System Channel 2: Mini Merry II
+936,905,Soldier Dock System: Channel 3,Soldier Dock System Channel 3: Shark Submerge III
+937,905,Soldier Dock System: Channel 4,Soldier Dock System Channel 4: Kurosai FR-U IV (prev. pool)
+938,905,Soldier Dock System: Channel 5,Soldier Dock System Channel 5: Brachio Tank V
+939,905,Soldier Dock System: Channel 6,Soldier Dock System Channel 6: Inflatable Pool
+940,905,Chicken Voyage,Chicken Voyage
+941,905,Gaon Cannon,Gaon Cannon
+942,941,Kaku Zara To,Square Dishes Swords
+943,700,Negative Hollow,Negative Hollow
+944,700,Yonbai no Negative Kogeki,Quadruple Negative Attack
+945,700,Mini Hollow,Mini Hollow
+946,700,Ghost Rap,Ghost Rap
+947,700,Toku Hollow,Special Hollow
+948,700,Kamikaze Rap,Divine Wind Rap
+949,700,Negative Ghost,Negative Ghost
 950,111,Hanauta Sancho: Yahazu Giri,Three-Verse Humming: Arrow-Notch Slash
 951,111,Aubade Coup Droit,Dawn Serenade: Right-Handed Strike
 952,111,Prelude: Au Fer,Prelude to Iron
@@ -959,66 +959,66 @@
 959,111,Nemuriuta Flanc,Lullaby Parry
 960,111,Party Music,Party Music
 961,111,Raikotsuken: Gavotte Bond en Avant,Lightning Bone Sword: Gavotte Leap Forward
-962,771,Hanauta Sancho: Yahazu Giri,Three-Verse Humming: Arrow-Notch Slash
-963,509,Chikai no Kiss,Oath Kiss
-964,409,Ittoryu,One Sword Style
-965,409,Sanjuroku Pound Ho,Phoenix of the 36 Earthly Desires
+962,774,Hanauta Sancho: Yahazu Giri,Three-Verse Humming: Arrow-Notch Slash
+963,511,Chikai no Kiss,Oath Kiss
+964,411,Ittoryu,One Sword Style
+965,411,Sanjuroku Pound Ho,Phoenix of the 36 Earthly Desires
 966,3,Skating,Skating
 967,3,Shisha no Te,Dead Man's Hand
 968,3,Kaijin no Te,Mysterious Person's Hands
 969,3,Kaijin no Ashi,Mysterious Person's Legs
-970,890,Spider Nettori Net,Spider Sticky Net
-971,663,Gomu Gomu no Gatling,Gomu Gomu Gatling
-972,293,Doppelman,Silhouette
-973,293,Kagemusha,Shadow Warrior
-974,293,Brick Bat,Fragment Bats
-975,293,Black Box,Shadow Box
-976,293,Kage Kakumei,Shadow Revolution
-977,293,Oars Ball,Oars Ball
-978,293,Shadow's Asgard,Territory of Gathered Shadows
-979,293,Tsuno-Tokage,Horn Blade Shadow
-980,771,Aubade Coup Droit,Dawn Serenade: Right-Handed Strike
-981,771,Prelude: Au Fer,Prelude to Iron
-982,771,Gavotte Bond en Avant,Gavotte: Leap Forward
-983,771,Polka Remise,Polka Continuation
-984,409,Santoryu,Three Sword Style
-985,409,Hyakuhachi Pound Ho,Phoenix of the 108 Earthly Desires
-986,663,Gomu Gomu no Kane,Gomu Gomu Bell
-987,663,Gomu Gomu no Kama,Gomu Gomu Sickle
-988,663,Gomu Gomu no Kazan,Gomu Gomu Volcano
-989,663,Gomu Gomu no Shirimochi,Gomu Gomu Butt Stomp
+970,893,Spider Nettori Net,Spider Sticky Net
+971,665,Gomu Gomu no Gatling,Gomu Gomu Gatling
+972,294,Doppelman,Silhouette
+973,294,Kagemusha,Shadow Warrior
+974,294,Brick Bat,Fragment Bats
+975,294,Black Box,Shadow Box
+976,294,Kage Kakumei,Shadow Revolution
+977,294,Oars Ball,Oars Ball
+978,294,Shadow's Asgard,Territory of Gathered Shadows
+979,294,Tsuno-Tokage,Horn Blade Shadow
+980,774,Aubade Coup Droit,Dawn Serenade: Right-Handed Strike
+981,774,Prelude: Au Fer,Prelude to Iron
+982,774,Gavotte Bond en Avant,Gavotte: Leap Forward
+983,774,Polka Remise,Polka Continuation
+984,411,Santoryu,Three Sword Style
+985,411,Hyakuhachi Pound Ho,Phoenix of the 108 Earthly Desires
+986,665,Gomu Gomu no Kane,Gomu Gomu Bell
+987,665,Gomu Gomu no Kama,Gomu Gomu Sickle
+988,665,Gomu Gomu no Kazan,Gomu Gomu Volcano
+989,665,Gomu Gomu no Shirimochi,Gomu Gomu Butt Stomp
 990,54,Pad Ho,Pressure Cannon
 991,54,Tsuppari Pad Ho,Slapping Thrust Pressure Cannon
 992,54,Ursus Shock,Bear Impact
-993,663,Gomu Gomu no Pistol,Gomu Gomu Pistol
-994,663,Gomu Gomu no Muchi,Gomu Gomu Whip
-995,663,Gomu Gomu no Yari,Gomu Gomu Lance/Spear
-996,663,Gomu Gomu no Ono,Gomu Gomu Battle Axe
-997,663,Gomu Gomu no Stamp,Gomu Gomu Stamp
-998,663,Gomu Gomu no Rifle,Gomu Gomu Rifle
-999,663,Gomu Gomu no Bullet,Gomu Gomu Bullet
-1000,251,Repel,Repel
-1001,911,ROOM,ROOM
-1002,911,Amputate,Amputate
-1003,911,Shambles,Shambles
-1004,911,Takt,Takt
-1005,911,Sterben,Blade of Death
-1006,911,Scan,Scan
-1007,911,Mes,Scalpel
-1008,911,Counter Shock,Counter Shock
-1009,911,Radio Knife,Radio Knife
-1010,911,Injection Shot,Injection Shot
-1011,911,Gamma Knife,Gamma Knife
-1012,463,Yata no Kagami,Eight Span Mirror
-1013,463,Amaterasu,Heavenly Illumination
-1014,463,Ama no Murakumo,Sword of the Gathering Clouds of Heaven
-1015,463,Yasakani no Magatama,Eight Shaku Curved Jewel
+993,665,Gomu Gomu no Pistol,Gomu Gomu Pistol
+994,665,Gomu Gomu no Muchi,Gomu Gomu Whip
+995,665,Gomu Gomu no Yari,Gomu Gomu Lance/Spear
+996,665,Gomu Gomu no Ono,Gomu Gomu Battle Axe
+997,665,Gomu Gomu no Stamp,Gomu Gomu Stamp
+998,665,Gomu Gomu no Rifle,Gomu Gomu Rifle
+999,665,Gomu Gomu no Bullet,Gomu Gomu Bullet
+1000,252,Repel,Repel
+1001,914,ROOM,ROOM
+1002,914,Amputate,Amputate
+1003,914,Shambles,Shambles
+1004,914,Takt,Takt
+1005,914,Sterben,Blade of Death
+1006,914,Scan,Scan
+1007,914,Mes,Scalpel
+1008,914,Counter Shock,Counter Shock
+1009,914,Radio Knife,Radio Knife
+1010,914,Injection Shot,Injection Shot
+1011,914,Gamma Knife,Gamma Knife
+1012,465,Yata no Kagami,Eight Span Mirror
+1013,465,Amaterasu,Heavenly Illumination
+1014,465,Ama no Murakumo,Sword of the Gathering Clouds of Heaven
+1015,465,Yasakani no Magatama,Eight Shaku Curved Jewel
 1016,58,Goma no So,Devil Conquering Phase
-1017,926,Inga Zarashi,Karma Exposure
-1018,800,Tatakau Music: Scratch Shan Don,Fighting Music: Scratch Shan Don
-1019,800,Shan,Beheading
-1020,800,Don,Exclamation
-1021,811,Ashigara Dokkoi,Leg-Locked Heave-Ho
+1017,929,Inga Zarashi,Karma Exposure
+1018,803,Tatakau Music: Scratch Shan Don,Fighting Music: Scratch Shan Don
+1019,803,Shan,Beheading
+1020,803,Don,Exclamation
+1021,814,Ashigara Dokkoi,Leg-Locked Heave-Ho
 1022,92,Mero Mero Mellow,Falling-Down Drunk Sweet Wind
 1023,92,Mezameyo,Awaken
 1024,92,Pistol Kiss,Pistol Kiss
@@ -1032,101 +1032,101 @@
 1032,93,Heavy Stick,Snake Collision
 1033,93,Modoku,Deadly Poison
 1034,93,Hebigami-Tsuki: Salamander,Snake-Hair Possession: Flame Snake God
-1035,517,Hydra,Poison Dragon
-1036,517,Chloro Ball,Poison Gas Bullet
-1037,517,Venom Road,Poisonous Path
-1038,517,Doku Fugu,Poison Blowfish
-1039,517,Doku Gumo,Poison Cloud
-1040,517,Venom Demon: Jigoku no Shinpan,Giant Soldier: Hell's Judgment
+1035,519,Hydra,Poison Dragon
+1036,519,Chloro Ball,Poison Gas Bullet
+1037,519,Venom Road,Poisonous Path
+1038,519,Doku Fugu,Poison Blowfish
+1039,519,Doku Gumo,Poison Cloud
+1040,519,Venom Demon: Jigoku no Shinpan,Giant Soldier: Hell's Judgment
 1041,115,Special Muggy Ball,Special Muggy Ball
-1042,245,Emporio Onna Hormone,Emporio Estrogen
-1043,245,Emporio Chiyu Hormone,Emporio Healing Synthesis
-1044,245,Emporio Tension Hormone,Emporio Energy Synthesis
-1045,245,Emporio Ganmen Seicho Hormone,Emporio Face Growth Synthesis
-1046,245,Death Wink,Death Wink
-1047,245,Hell Wink,Hell Wink
-1048,245,Newkama Kenpo: 44 no Aesthe Ogi - Mudade Shori Ken,44 Secret Spa Arts Ultimate Attack... Hair Removal Fist
-1049,245,Rolling Aesthe,Rolling Spa
-1050,245,Ganmen Spectrum,Face Spectrum
-1051,245,Galaxy Wink,Galaxy Wink
-1052,383,O Kanabashi,Great Tongs
-1053,383,Keep Out,Keep Out
-1054,410,Karakusagawara Seiken,Arabesque Brick Fist
-1055,410,Gosenmaigawara Seiken,"5,000 Brick Fist"
-1056,410,Yarinami,Spear Wave
-1057,410,Samehada Shotei,Sharkskin Palm Thrust
-1058,410,Samegawara Seiken,Shark Fist Tile Breaker
-1059,410,Uchimizu,Water Shot
-1060,410,Nanasenmaigawara Mawashigeri,7000 Brick Roundhouse Kick
-1061,410,Gyojin Karate Ogi: Buraikan,Fishman Karate Secret Technique: Mighty Reliant Piercing
-1062,778,Kofun no Geki: Akamamuchi,Manifesto of Excitement - Red Viper Whip
-1063,336,Hannya Carnival: Shonetsu Jigoku Guruma,Hannya Carnival!! Inferno Hell Wheel
-1064,410,Mizugokoro,Water Heart
-1065,410,Kairyu Ipponzeoi,Sea Current Lifter
-1066,956,Kaishin,Seaquake
-1067,956,Gekishin,Severe Earthquake
-1068,956,Kabutowari,Helmet Break
-1069,956,Naginata Rasetsu,Halberd Rakshasa
-1070,956,Shima Yurashi,Island Shaking
+1042,246,Emporio Onna Hormone,Emporio Estrogen
+1043,246,Emporio Chiyu Hormone,Emporio Healing Synthesis
+1044,246,Emporio Tension Hormone,Emporio Energy Synthesis
+1045,246,Emporio Ganmen Seicho Hormone,Emporio Face Growth Synthesis
+1046,246,Death Wink,Death Wink
+1047,246,Hell Wink,Hell Wink
+1048,246,Newkama Kenpo: 44 no Aesthe Ogi - Mudade Shori Ken,44 Secret Spa Arts Ultimate Attack... Hair Removal Fist
+1049,246,Rolling Aesthe,Rolling Spa
+1050,246,Ganmen Spectrum,Face Spectrum
+1051,246,Galaxy Wink,Galaxy Wink
+1052,384,O Kanabashi,Great Tongs
+1053,384,Keep Out,Keep Out
+1054,412,Karakusagawara Seiken,Arabesque Brick Fist
+1055,412,Gosenmaigawara Seiken,"5,000 Brick Fist"
+1056,412,Yarinami,Spear Wave
+1057,412,Samehada Shotei,Sharkskin Palm Thrust
+1058,412,Samegawara Seiken,Shark Fist Tile Breaker
+1059,412,Uchimizu,Water Shot
+1060,412,Nanasenmaigawara Mawashigeri,7000 Brick Roundhouse Kick
+1061,412,Gyojin Karate Ogi: Buraikan,Fishman Karate Secret Technique: Mighty Reliant Piercing
+1062,781,Kofun no Geki: Akamamuchi,Manifesto of Excitement - Red Viper Whip
+1063,337,Hannya Carnival: Shonetsu Jigoku Guruma,Hannya Carnival!! Inferno Hell Wheel
+1064,412,Mizugokoro,Water Heart
+1065,412,Kairyu Ipponzeoi,Sea Current Lifter
+1066,959,Kaishin,Seaquake
+1067,959,Gekishin,Severe Earthquake
+1068,959,Kabutowari,Helmet Break
+1069,959,Naginata Rasetsu,Halberd Rakshasa
+1070,959,Shima Yurashi,Island Shaking
 1071,12,Dai Funka,Great Eruption
 1072,12,Ryusei Kazan,Meteor Volcano
 1073,12,Inugami Guren,Hound Blaze
 1074,12,Meigo,Hellhound
-1075,220,Goshikito,Five Color Strings
-1076,220,Overheat,Excess Whip String
-1077,220,Tamaito,Bullet String
-1078,220,Fulbright,Falling Villainous String
-1079,220,Itonoko,Fretsaw
-1080,220,Break White,Raging Waves White String
-1081,220,Athlete,Athlete
-1082,220,Parasite,Parasite String
-1083,220,Sora no Michi,Sky Road
-1084,220,Black Knight,Shadow Knight String
-1085,220,Torikago,Birdcage
-1086,220,Kumo no Sugaki,Spider's Web
-1087,418,Brilliant Punk,Brilliant Punk
-1088,592,Soru,Shave
-1089,194,Shigan,Finger Pistol
-1090,777,Pipe,Pipe
-1091,710,Pipe,Pipe
-1092,599,Pipe,Pipe
-1093,333,Utase Ami,Sailing Trawl Net
-1094,333,Dorei Tank,Slave Tank
+1075,221,Goshikito,Five Color Strings
+1076,221,Overheat,Excess Whip String
+1077,221,Tamaito,Bullet String
+1078,221,Fulbright,Falling Villainous String
+1079,221,Itonoko,Fretsaw
+1080,221,Break White,Raging Waves White String
+1081,221,Athlete,Athlete
+1082,221,Parasite,Parasite String
+1083,221,Sora no Michi,Sky Road
+1084,221,Black Knight,Shadow Knight String
+1085,221,Torikago,Birdcage
+1086,221,Kumo no Sugaki,Spider's Web
+1087,420,Brilliant Punk,Brilliant Punk
+1088,594,Soru,Shave
+1089,195,Shigan,Finger Pistol
+1090,780,Pipe,Pipe
+1091,712,Pipe,Pipe
+1092,601,Pipe,Pipe
+1093,334,Utase Ami,Sailing Trawl Net
+1094,334,Dorei Tank,Slave Tank
 1095,132,Numa Numa no Gatling Gun,Swamp Swamp Machine Gun
-1096,362,Trident,Trident
-1097,362,Kirisame,Kirisame
-1098,362,Soshark,Shark Grip
-1099,362,Yabusame,Shark Arrows
-1100,362,Uchimizu,Water Shot
-1101,362,Umidaiko,Sea Drums
-1102,362,Mizugokoro,Water Heart
-1103,362,Murasame,Shark Pack
-1104,640,Ultramarine,Ultramarine
-1105,273,Ultramarine,Ultramarine
-1106,273,Koin Ryusui So,Flying Time Spear
-1107,770,Ryugu Romon,Dragon Palace Tower Gate
-1108,522,Shitchin Banpo,All the Treasure
-1109,197,Cookie Cutter,Cookie Cutter
-1110,197,Daruma Otoshi,Daruma Fall
-1111,197,Hi-Daruma Cutter,Ablaze Cutter
-1112,373,Hattoryu,Eight Sword Style
-1113,373,Chidoriashi Hash,Drunken Staggering Hash
-1114,373,Modoku no Ken,Deadly Poison Sword
-1115,380,Ikaros no Tsubasa,Wings of Ikaros
-1116,380,Ikasumi Bunshi,Squid Ink Clone
-1117,380,Usubon no Yari,Mortar Vatican Spear
-1118,987,Camouflage Carpet,Camouflage Carpet
-1119,987,Kamigakure Flail: 66 Kubi,Mysterious Disappearing Flail: 66 Neck
-1120,987,Super Sole Head-butt,Super Sole Head-butt
-1121,987,Body De Sword Crush,Sword Crush by Body
-1122,943,Mega Nyudo,Mega Monk
-1123,226,T-Shot,T-Shot
-1124,226,Papara Hammer,Papara Hammer
-1125,455,Santoryu,Two Sword Style
-1126,455,Homura Saki,Flame Split
-1127,455,Karyu Issen,Firework Flash
-1128,799,Tsurara Kenzan,Icicle Needle-Point Holder
-1129,753,Tsurara Kenzan,Icicle Needle-Point Holder
+1096,363,Trident,Trident
+1097,363,Kirisame,Kirisame
+1098,363,Soshark,Shark Grip
+1099,363,Yabusame,Shark Arrows
+1100,363,Uchimizu,Water Shot
+1101,363,Umidaiko,Sea Drums
+1102,363,Mizugokoro,Water Heart
+1103,363,Murasame,Shark Pack
+1104,642,Ultramarine,Ultramarine
+1105,274,Ultramarine,Ultramarine
+1106,274,Koin Ryusui So,Flying Time Spear
+1107,773,Ryugu Romon,Dragon Palace Tower Gate
+1108,524,Shitchin Banpo,All the Treasure
+1109,198,Cookie Cutter,Cookie Cutter
+1110,198,Daruma Otoshi,Daruma Fall
+1111,198,Hi-Daruma Cutter,Ablaze Cutter
+1112,374,Hattoryu,Eight Sword Style
+1113,374,Chidoriashi Hash,Drunken Staggering Hash
+1114,374,Modoku no Ken,Deadly Poison Sword
+1115,381,Ikaros no Tsubasa,Wings of Ikaros
+1116,381,Ikasumi Bunshi,Squid Ink Clone
+1117,381,Usubon no Yari,Mortar Vatican Spear
+1118,990,Camouflage Carpet,Camouflage Carpet
+1119,990,Kamigakure Flail: 66 Kubi,Mysterious Disappearing Flail: 66 Neck
+1120,990,Super Sole Head-butt,Super Sole Head-butt
+1121,990,Body De Sword Crush,Sword Crush by Body
+1122,946,Mega Nyudo,Mega Monk
+1123,227,T-Shot,T-Shot
+1124,227,Papara Hammer,Papara Hammer
+1125,457,Santoryu,Two Sword Style
+1126,457,Homura Saki,Flame Split
+1127,457,Karyu Issen,Firework Flash
+1128,802,Tsurara Kenzan,Icicle Needle-Point Holder
+1129,756,Tsurara Kenzan,Icicle Needle-Point Holder
 1130,124,Gas Robe,Gas Robe
 1131,124,Gastanet,Gastanet
 1132,124,Karakuni,Land of Nothing
@@ -1134,22 +1134,22 @@
 1134,124,Blue Sword,Blue Sword
 1135,124,Gastille,Gastille
 1136,124,Shinokuni,Land of Death
-1137,936,Shigan,Finger Pistol
-1138,936,Soru,Shave
-1139,936,Geppo,Moonwalk
-1140,936,Tekkai,Iron Mass
-1141,936,Oni Take,Demon Bamboo
-1142,936,Bamboo Stick,Bamboo Stick
-1143,595,Kamakura,Snow Hut
-1144,595,Kamakura Jussoshi,Snow Hut Ten Layers
-1145,595,Yuki Gaki,Snow Fence
-1146,595,Mannen Yuki,Perpetual Snow
-1147,595,Tabira Yuki,Sword Snow
-1148,595,Hada Gatana,Skin Sword
-1149,595,Yuki Rabi,Snow Rabbit
-1150,595,Fubuki,Snow Storm
-1151,892,Soru,Shave
-1152,892,Kiri Shigure,Cutting Mist
+1137,939,Shigan,Finger Pistol
+1138,939,Soru,Shave
+1139,939,Geppo,Moonwalk
+1140,939,Tekkai,Iron Mass
+1141,939,Oni Take,Demon Bamboo
+1142,939,Bamboo Stick,Bamboo Stick
+1143,597,Kamakura,Snow Hut
+1144,597,Kamakura Jussoshi,Snow Hut Ten Layers
+1145,597,Yuki Gaki,Snow Fence
+1146,597,Mannen Yuki,Perpetual Snow
+1147,597,Tabira Yuki,Sword Snow
+1148,597,Hada Gatana,Skin Sword
+1149,597,Yuki Rabi,Snow Rabbit
+1150,597,Fubuki,Snow Storm
+1151,895,Soru,Shave
+1152,895,Kiri Shigure,Cutting Mist
 1153,114,Toppu: Matasaburo,Gust: Matasaburo
 1154,114,Guru Guru Toshaho,Spin Spin Projectile Cannon
 1155,42,Buki-morphose,Weapon Metamorphose
@@ -1158,15 +1158,15 @@
 1158,42,Revolver Girl,Pistol Girl
 1159,42,Sickle Girl,Sickle Girl
 1160,42,Revolver Leg,Revolver Leg
-1161,787,Hormone Soup with Sea Pork,Hormone Soup with Sea Pork
-1162,485,Trueno Bastard,Destructive Sword of Thunder
-1163,485,Jet Walk,Jet Walk
-1164,328,Yonsenmaigawara Seiken,Four Thousand Tile True Punch
-1165,156,Buto,Military Head
-1166,156,Hasshoken Ogi: Kiryu Kirikugi,Eight Impacts Fist Secret Technique: Drill Dragon Drill Nail
-1167,156,Hasshoken Ogi: Mukiryu Mukirikugi,Eight Impacts Fist Secret Technique: Drill-less Dragon Drill-less Nail
-1168,779,Bujaogen,Military Leg Heel
-1169,779,Hasshoken Ogi: Kiryu Kirikugi,Eight Impacts Fist Secret Technique: Drill Dragon Drill Nail
+1161,790,Hormone Soup with Sea Pork,Hormone Soup with Sea Pork
+1162,487,Trueno Bastard,Destructive Sword of Thunder
+1163,487,Jet Walk,Jet Walk
+1164,329,Yonsenmaigawara Seiken,Four Thousand Tile True Punch
+1165,157,Buto,Military Head
+1166,157,Hasshoken Ogi: Kiryu Kirikugi,Eight Impacts Fist Secret Technique: Drill Dragon Drill Nail
+1167,157,Hasshoken Ogi: Mukiryu Mukirikugi,Eight Impacts Fist Secret Technique: Drill-less Dragon Drill-less Nail
+1168,782,Bujaogen,Military Leg Heel
+1169,782,Hasshoken Ogi: Kiryu Kirikugi,Eight Impacts Fist Secret Technique: Drill Dragon Drill Nail
 1170,139,Biken: Blue Bird,Beautiful Sword: Blue Bird
 1171,139,Biken: Swan Lake,Beautiful Sword: Swan Lake
 1172,139,Biken: Zan t-Exupéry,Beautiful Sword: Slash: Stardust Prince
@@ -1180,100 +1180,100 @@
 1180,56,Racket,Racket
 1181,56,Barrier Ball,Barrier Ball
 1182,56,Homage Shinken: Bari Bari no Pistol,Homage God's Fist: Bari Bari Pistol
-1183,243,King Punch,King Punch
+1183,244,King Punch,King Punch
 1184,87,Shooting Moon,Shooting Moon
-1185,939,Peeping Mind,Heart Peeping
-1186,939,Hierro Lágrima: Mekujira,Hot Iron Tear: Eye Whale
-1187,939,Senrigan,Clairvoyance
-1188,446,Jake Jake Ninin-baori,Jacket Jacket Two-Man Formal Coat
-1189,446,Rarara Rambo,Rarara Violence
-1190,415,Broken-Fu Art,Blow Kung-Fu Art
-1191,415,Dying Art,Art of Life
-1192,876,Little Black Bears,Little Bear Toys
-1193,876,Keiyaku,Contract
-1194,876,Atamawari Ningyo,Headcracker Doll
-1195,500,Haute Couture: Patchwork,High Class Sewing: Patchwork
-1196,908,Shippo Hammer,Tail Hammer
-1197,908,Tontatta Swing,Tontatta Swing
-1198,810,Nekomimi Punch,Cat Ear Punch
-1199,810,Nyannyan Suplex,Meow Meow Suplex
-1200,810,Baby Buster,Baby Buster
-1201,810,Omutsu Bakudan,Diaper Bomb
-1202,514,10 Ton Vise,10 Ton Vise
-1203,514,Hakai no Senton Vise,"1,000 Ton Vise of Destruction"
-1204,514,Jigoku no Manton Vise,"10,000 Ton Vise of Hell"
-1205,201,Pistol High Heel,Pistol High Heel
-1206,201,Danto High Heel,Decapitation High Heel
-1207,912,Beta Beta Chain,Sticky Sticky Chain
-1208,912,Beta Betton Meteora,Sticky Stick Meteor
-1209,912,Hanamizu Shinken Shirahadori,Snot Real Sword Blade Grab
-1210,912,Beto Launcher,Beto Launcher
-1211,206,Hangetsu Glaive,Half Moon Glaive
-1212,206,Lock,Lock
-1213,206,Corrida Glaive,Corrida Glaive
-1214,206,Vipera Glaive,Vipera Glaive
-1215,206,Army Bandera,Army Bandera
-1216,206,Hira Release,Hira Release
-1217,206,Death Enjambre,Death Enjambre
-1218,495,Yotsu no Kamae,Lower Back Pain Stance
-1219,495,Me no Tsukare,Eye Stab Wither
-1220,495,Kata Kori,Form Ice
-1221,495,Fushi Bushi no Itami,Pain Snake of Undying Warrior
-1222,495,Jioken Kyukyoku no Higi: Sento Ho-Ken,Earth Old Man Fist Ultimate Secrete Technique: Battle Preservation Fist
-1223,495,G no Kokuin,Seal of G
-1224,406,Hado Elbow,Wave Motion Elbow
-1225,700,Pulpostone,Octopus Stone
-1226,700,Charlestone,Dancing Stone
-1227,700,Ishiusu,Stone Press
-1228,700,Bitestone,Biting Stone
-1229,777,Ryu no Kagizume,Dragon's Claw
-1230,777,Ryusoken: Ryu no Ibuki,Dragon Claw Fists: Dragon's Breath
-1231,777,Hiken,Fire Fist
-1232,305,Met Punc,Met Punc
-1233,305,Jirai Punc,Landmine Punc
-1234,305,Punc Bala,Rupture Bullet
-1235,305,Punc Rock Fest,Punc Rock Fest
-1236,305,Catapult Punc,Stone Throwing Punc
-1237,305,Bracchium,Bracchium
-1238,305,Punc Hair,Punc Hair
-1239,305,Fashion Punc,Fullbody Rupture
-1240,305,Punc Rock Super Arena,Punc Rock Super Arena
-1241,378,Hakai Ho,Destruction Cannon
-1242,672,Teitoku Hug,Admiral Hug
-1243,672,Teitoku no Igen: Seiretsu,Admiral's Dignity: Ten-Hut
-1244,672,Teitoku Killer Bowling,Admiral Killer Bowling
-1245,435,Nuke Suzume,Escaping Sparrow
-1246,272,Gravito,Gravity Sword
-1247,272,Moko,Ferocious Tiger
-1248,174,Silent,Silent
-1249,174,Calm,Calm
-1250,330,Gungnir,Hero's Spear
-1251,422,Beetle Upper,Beetle Upper
-1252,599,Gomu Gomu no Eagle Bazooka,Gomu Gomu no Eagle Bazooka
-1253,599,Gomu Gomu no Hawk Whip,Gomu Gomu no Hawk Whip
-1254,599,Kinniku Fusen,Muscle Balloon
-1255,599,Gomu Gomu no Kong Gun,Rubber Rubber Monkey King Gun
-1256,599,Gomu Gomu no Rhino Schneider,Rubber Rubber Rhinoceros Howitzer
-1257,599,Gomu Gomu no Culverin,Rubber Rubber Great Serpent Cannon
-1258,599,Gomu Gomu no Double Culverin,Rubber Rubber Great Double Serpent Cannon
-1259,220,Off White,Shield White String
-1260,220,Billow White,Billow White String
-1261,599,Gomu Gomu no Leo Bazooka,Gomu Gomu no Leo Bazooka
-1262,406,Galleon Lariat,Unsinkable Battleship
-1263,777,Moeru Ryusoken: Kaen Ryuo,Flaming Dragon's Claw Fist: Fire Flame Dragon King
-1264,525,Chiyupopo,Chiyupopo
-1265,220,Ever White,Ocean Whitecaps
-1266,220,Flap Thread,Wing Strike String
-1267,599,Gomu Gomu no King Kong Gun,Gomu Gomu no King Kong Gun
-1268,220,God Thread,God Execution
-1269,822,Sheep's Horn,Sheep's Horn
+1185,942,Peeping Mind,Heart Peeping
+1186,942,Hierro Lágrima: Mekujira,Hot Iron Tear: Eye Whale
+1187,942,Senrigan,Clairvoyance
+1188,448,Jake Jake Ninin-baori,Jacket Jacket Two-Man Formal Coat
+1189,448,Rarara Rambo,Rarara Violence
+1190,417,Broken-Fu Art,Blow Kung-Fu Art
+1191,417,Dying Art,Art of Life
+1192,879,Little Black Bears,Little Bear Toys
+1193,879,Keiyaku,Contract
+1194,879,Atamawari Ningyo,Headcracker Doll
+1195,502,Haute Couture: Patchwork,High Class Sewing: Patchwork
+1196,911,Shippo Hammer,Tail Hammer
+1197,911,Tontatta Swing,Tontatta Swing
+1198,813,Nekomimi Punch,Cat Ear Punch
+1199,813,Nyannyan Suplex,Meow Meow Suplex
+1200,813,Baby Buster,Baby Buster
+1201,813,Omutsu Bakudan,Diaper Bomb
+1202,516,10 Ton Vise,10 Ton Vise
+1203,516,Hakai no Senton Vise,"1,000 Ton Vise of Destruction"
+1204,516,Jigoku no Manton Vise,"10,000 Ton Vise of Hell"
+1205,202,Pistol High Heel,Pistol High Heel
+1206,202,Danto High Heel,Decapitation High Heel
+1207,915,Beta Beta Chain,Sticky Sticky Chain
+1208,915,Beta Betton Meteora,Sticky Stick Meteor
+1209,915,Hanamizu Shinken Shirahadori,Snot Real Sword Blade Grab
+1210,915,Beto Launcher,Beto Launcher
+1211,207,Hangetsu Glaive,Half Moon Glaive
+1212,207,Lock,Lock
+1213,207,Corrida Glaive,Corrida Glaive
+1214,207,Vipera Glaive,Vipera Glaive
+1215,207,Army Bandera,Army Bandera
+1216,207,Hira Release,Hira Release
+1217,207,Death Enjambre,Death Enjambre
+1218,497,Yotsu no Kamae,Lower Back Pain Stance
+1219,497,Me no Tsukare,Eye Stab Wither
+1220,497,Kata Kori,Form Ice
+1221,497,Fushi Bushi no Itami,Pain Snake of Undying Warrior
+1222,497,Jioken Kyukyoku no Higi: Sento Ho-Ken,Earth Old Man Fist Ultimate Secrete Technique: Battle Preservation Fist
+1223,497,G no Kokuin,Seal of G
+1224,408,Hado Elbow,Wave Motion Elbow
+1225,702,Pulpostone,Octopus Stone
+1226,702,Charlestone,Dancing Stone
+1227,702,Ishiusu,Stone Press
+1228,702,Bitestone,Biting Stone
+1229,780,Ryu no Kagizume,Dragon's Claw
+1230,780,Ryusoken: Ryu no Ibuki,Dragon Claw Fists: Dragon's Breath
+1231,780,Hiken,Fire Fist
+1232,306,Met Punc,Met Punc
+1233,306,Jirai Punc,Landmine Punc
+1234,306,Punc Bala,Rupture Bullet
+1235,306,Punc Rock Fest,Punc Rock Fest
+1236,306,Catapult Punc,Stone Throwing Punc
+1237,306,Bracchium,Bracchium
+1238,306,Punc Hair,Punc Hair
+1239,306,Fashion Punc,Fullbody Rupture
+1240,306,Punc Rock Super Arena,Punc Rock Super Arena
+1241,379,Hakai Ho,Destruction Cannon
+1242,674,Teitoku Hug,Admiral Hug
+1243,674,Teitoku no Igen: Seiretsu,Admiral's Dignity: Ten-Hut
+1244,674,Teitoku Killer Bowling,Admiral Killer Bowling
+1245,437,Nuke Suzume,Escaping Sparrow
+1246,273,Gravito,Gravity Sword
+1247,273,Moko,Ferocious Tiger
+1248,175,Silent,Silent
+1249,175,Calm,Calm
+1250,331,Gungnir,Hero's Spear
+1251,424,Beetle Upper,Beetle Upper
+1252,601,Gomu Gomu no Eagle Bazooka,Gomu Gomu no Eagle Bazooka
+1253,601,Gomu Gomu no Hawk Whip,Gomu Gomu no Hawk Whip
+1254,601,Kinniku Fusen,Muscle Balloon
+1255,601,Gomu Gomu no Kong Gun,Rubber Rubber Monkey King Gun
+1256,601,Gomu Gomu no Rhino Schneider,Rubber Rubber Rhinoceros Howitzer
+1257,601,Gomu Gomu no Culverin,Rubber Rubber Great Serpent Cannon
+1258,601,Gomu Gomu no Double Culverin,Rubber Rubber Great Double Serpent Cannon
+1259,221,Off White,Shield White String
+1260,221,Billow White,Billow White String
+1261,601,Gomu Gomu no Leo Bazooka,Gomu Gomu no Leo Bazooka
+1262,408,Galleon Lariat,Unsinkable Battleship
+1263,780,Moeru Ryusoken: Kaen Ryuo,Flaming Dragon's Claw Fist: Fire Flame Dragon King
+1264,527,Chiyupopo,Chiyupopo
+1265,221,Ever White,Ocean Whitecaps
+1266,221,Flap Thread,Wing Strike String
+1267,601,Gomu Gomu no King Kong Gun,Gomu Gomu no King Kong Gun
+1268,221,God Thread,God Execution
+1269,825,Sheep's Horn,Sheep's Horn
 1270,111,Soul Parade,Soul Parade
 1271,19,Bludgeon,Bludgeon
-1272,633,Bo Staff,Bo Staff
-1273,435,Climbing Dragon,Climbing Dragon
-1274,756,Galava,Galava
-1275,923,Wolf Grip,Wolf Grip
+1272,635,Bo Staff,Bo Staff
+1273,437,Climbing Dragon,Climbing Dragon
+1274,759,Galava,Galava
+1275,926,Wolf Grip,Wolf Grip
 1276,111,Soul Parade: Eisbahn,Soul Parade: Eisbahn
 1277,124,Roko,Koro Neutralizing Gas
 1278,130,Castle Tank,Castle Tank
-1279,425,Bludgeon,Bludgeon
+1279,427,Bludgeon,Bludgeon
